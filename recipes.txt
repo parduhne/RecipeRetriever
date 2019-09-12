@@ -1,0 +1,4405 @@
+
+gin-sonic{
+    1 1⁄2 oz Roku gin 
+
+gin-sonic{
+    1 1⁄2 oz Roku gin 
+    2 1⁄4 oz Club soda
+    2 1⁄4 oz Tonic water
+
+gin-sonic{
+    1 1⁄2 oz Roku gin 
+    2 1⁄4 oz Club soda
+    2 1⁄4 oz Tonic water
+
+gin-sonic{
+    1 1⁄2 oz Roku gin 
+    2 1⁄4 oz Club soda
+    2 1⁄4 oz Tonic water
+}
+
+haileys-comet{
+    1 oz Peach-infused bourbon* 
+    3⁄4 oz Pimm’s blackberry and elderflower liqueur 
+    3⁄4 oz Giffard orgeat 
+    3⁄4 oz Fresh lemon juice
+    1 barspoon Organic honey
+}
+
+tennessee-summertide{
+    1 1⁄2 oz Chattanooga 1816 Cask unfiltered barrel-proof whiskey 
+    3⁄4 oz Amaro Montenegro 
+    1⁄4 oz St. George absinthe verte 
+    1 oz Pickled peach juice*
+    1 dash Simple syrup 
+}
+
+sugar-baby{
+    1  Large seedless watermelon
+    1 cup Bourbon 
+    1⁄2 cup Fennel-infused Cocchi Americano* 
+}
+
+miamians-julep{
+    2 oz Woodinville bourbon 
+    1 oz Coconut cream
+    1 oz Crème de banane
+    1⁄2 oz Fresh lime juice
+    10 sprigs Mint
+}
+
+cabana-club{
+    1 1⁄2 oz Amontillado sherry
+    1 oz Fresh coconut water
+    1 oz The Perfect Purée coconut 
+    1 oz Coco Lopez cream of coconut 
+    1⁄2 oz Pernod absinthe 
+    1⁄4 oz Cinnamon syrup*
+}
+
+holy-water{
+    3⁄4 oz Infused Hamilton Jamaican gold rum or El Dorado five-year-old rum*
+    3⁄4 oz Maison rouge cognac 
+    1⁄2 oz Orgeat
+    1⁄4 oz Fresh lime juice
+    1⁄4 oz Fresh lemon juice
+    1⁄8 oz Grapefruit juice
+     Angostura bitters, to float 
+    1⁄2 oz Green Chartreuse 
+}
+
+banana-daiquiri{
+    2 oz Aged rum 
+    1⁄2 oz Tempus Fugit crème de banane liqueur  
+    1 oz Fresh lime juice
+    1⁄4 oz Demerara simple syrup
+}
+
+amanyara-mojito{
+    2 oz Bacardí Superior light rum 
+    1 oz Fresh lime juice
+    1⁄2 oz Simple syrup 
+    10 leaves Mint
+     Chilled champagne, to top
+}
+
+angostura-honeysuckle{
+    2 oz Angostura seven-year-old rum  
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Honey syrup
+    1 dash Angostura orange bitters
+}
+
+rum-punch{
+    1 1⁄4 oz Light rum 
+    1 1⁄4 oz Dark rum
+    2 oz Pineapple juice
+    1 oz Orange juice
+    1⁄4 oz Fresh lime juice
+    1⁄4 oz Grenadine
+}
+
+forefathers{
+    2 oz Evan Williams 1783 bourbon 
+    2 barspoons Sweet tea oleo saccharum*
+    3 dashes Free Brothers peach bitters 
+}
+
+nu-mai-tai{
+    2 oz Rum blend (equal-parts Martinique rhum agricole, Jamaican rum and spiced rum) 
+    1 oz Fresh lime juice
+    1⁄2 oz Orange curaçao
+    1⁄2 oz Passion fruit purée
+    1 oz Dan's Mix #9*
+}
+
+nightcap{
+    2 oz Gosling’s Gold Seal rum 
+    2 oz Cold-brew coffee
+    1⁄2 oz Grade A maple syrup
+     Zest of 1 orange
+    1 dash Angostura bitters 
+     San Pellegrino tonic water, to top 
+}
+
+rum-tonic{
+    1 oz Old Port East Indian rum 
+    1 oz Paranubes Oaxaca rum 
+     Fever-Tree Premium Indian tonic water, to top 
+}
+
+summer-tonic{
+    1 1⁄2 oz Mount Gay rum 
+    1 oz Borgia herbal bitters
+    4 oz Fever-Tree aromatic tonic water 
+    1⁄2 oz Fresh lemon juice
+}
+
+grey-goose-magnifique{
+    1 1⁄2 oz Grey Goose vodka 
+    4 oz Coconut water
+    1 pinch Sea salt
+    1 dash Orange blossom water
+}
+
+bacardi-pina-colada{
+    2 parts Bacardí Superior rum 
+    1 1⁄2 parts Fresh coconut water
+    1 parts Fresh pineapple juice
+    4 chunks Fresh pineapple
+    2 tsp Caster sugar
+}
+
+patron-frozen-margarita{
+    4 oz Patrón silver tequila 
+    1 1⁄2 oz Patrón Citrónge orange liqueur
+    1 oz Agave syrup
+    1 oz Fresh lime juice
+    1⁄2 oz Orange juice
+}
+
+bombay-sapphire-mule{
+    1 oz Bombay Sapphire gin 
+    4 oz Ginger beer
+    1⁄4 oz Fresh lime juice
+    2  Lime wedges
+}
+
+angostura-mai-tai{
+    2 1⁄2 oz Angostura five-year-old rum 
+    1 oz Orange curaçao
+    1 oz Pineapple juice
+    1⁄2 oz Fresh lime juice
+    1⁄4 oz Orgeat
+    1⁄2 tsp White cane sugar
+    1 dash Vanilla syrup (optional)
+}
+
+oaks-lily{
+    1 1⁄2 oz Vodka 
+    1⁄2 oz Orange liqueur
+    1⁄2 oz Simple syrup 
+    1⁄2 oz Fresh lemon juice
+    3 oz Cranberry juice
+}
+
+angostura-rum-punch{
+    2 1⁄2 oz Angostura five-year-old rum 
+    2 oz Pineapple juice
+    1 oz Orange juice
+    1⁄4 oz Fresh lime juice
+    1⁄4 oz Grenadine
+}
+
+palo-santo-gimlet{
+    1 oz Tayer X Hepple gin 
+    1⁄3 oz Lillet blanc 
+    1⁄3 oz Tio Pepe fino sherry 
+    1⁄3 oz Palo santo cordial*
+}
+
+massimo-bond{
+    2 oz Olive oil gin*
+    1⁄4 oz Mancino secco vermouth or Martini extra dry Italian vermouth
+    3 drops Pink Himalayan salt solution**
+    4 leaves Sage
+}
+
+spicy-margarita{
+    1 wedge Lime
+    2  Jalapeño coins (seeds removed)
+    2 oz Blanco tequila
+    1 oz Fresh lime juice
+    1⁄2 oz Orange liqueur
+    1⁄2 oz Agave syrup
+}
+
+kentucky-river{
+    2 oz Buffalo Trace bourbon 
+    1⁄2 oz Tempus Fugit crème de cacao 
+    3 dashes Peach bitters
+}
+
+brandy-old-fashioned{
+    2  Orange slices
+    2  Brandied or maraschino cherries
+    3 dashes Angostura bitters 
+    1  Sugar cube
+    1 dash 7Up/Sprite, seltzer or sour soda (sour mix and soda water)
+    2 oz Brandy 
+}
+
+patron-tamarind-margarita{
+    2 oz Gran Patrón smoky tequila 
+    3⁄4 oz Tamarind purée
+    3⁄4 oz Cinnamon agave syrup
+    1⁄4 oz Fresh lime juice
+    1 dash Angostura bitters
+}
+
+sea-blues{
+    1 1⁄4 oz Ocean vodka 
+    3⁄4 oz Malibu coconut rum 
+    3⁄4 oz Bols blue curaçao  
+    1⁄2 oz Fresh lemon juice
+    1 1⁄2 oz Fresh pineapple juice
+     Lemon wedge, for rimming
+     Coconut ice sphere*
+}
+
+blue-hawaii{
+    3⁄4 oz Vodka 
+    3⁄4 oz Light rum 
+    1⁄2 oz Blue curaçao
+    3 oz Pineapple juice
+    1 oz Sweet-and-sour mix
+}
+
+strangelove{
+    3⁄4 oz Ketel One vodka 
+    3⁄4 oz Riesling wine
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Small Hand Foods raspberry gum syrup 
+    1⁄4 oz Amaro Montenegro 
+    1⁄4 oz Cappelletti aperitivo 
+}
+
+delete-that-text{
+    4  Fresh blackberries
+    1 oz Vodka  
+    1 oz Gin 
+    1⁄2 oz Elderflower liqueur
+    3⁄4 oz Fresh lemon juice
+}
+
+cabana-boy{
+    1 oz Reyka vodka 
+    1⁄2 oz Oloroso sherry
+    1⁄2 oz Rhum agricole 
+    1⁄2 oz Coconut-lemongrass syrup*
+    1⁄2 oz Orange juice
+}
+
+night-flights{
+    1 1⁄2 oz Opihr gin
+    1 oz Republic Restoratives Civic vodka 
+    1⁄2 oz Salers gentian apéritif 
+    1⁄2 oz Crème de violette
+    2 dashes Lemon bitters
+}
+
+george-dickel-whiskey-sour{
+    1 1⁄4 oz George Dickel No. 12 whisky 
+    1 1⁄2 oz Fresh lemon juice
+    3⁄4 oz Simple syrup
+}
+
+cazadores-mexican-chardonnay{
+    2 oz Tequila Cazadores reposado 
+}
+
+grey-goose-life-in-venice{
+    1 1⁄4 oz Grey Goose L’Orange vodka 
+    3⁄4 oz White peach pureé
+    1⁄4 oz Grenadine
+    2 dashes Peach bitters
+    1 pinch Pink peppercorn powder (ground pink peppercorns)
+    2 oz Prosecco, to top 
+}
+
+gentleman-jack-sunday-morning-sour{
+    2 oz Earl Grey-infused Gentleman Jack whiskey* 
+    1 oz Tennessee clover honey
+    1 1⁄4 oz Acid-adjusted citrus**
+    1⁄2 oz Coconut milk 
+    1  Egg white
+}
+
+oxley-suffragette{
+    1 3⁄4 oz Oxley gin 
+    3⁄4 oz Noilly Prat dry vermouth
+    1⁄2 oz St-Germain
+}
+
+cazadores-loaded-michelada{
+    1 oz Cazadores blanco tequila 
+    2 oz Sweet-and-sour mix
+    1⁄2 oz Fresh lime juice
+    4 dashes Tapatio or Valentina hot sauce
+    4 dashes Tajín seasoning
+     Mexican style lager, to top
+}
+
+bacardi-and-cola{
+    1 oz Bacardí Superior rum 
+    2 oz Cola, chilled
+}
+
+bacardi-cuatro-airmail{
+    2 oz Bacardí Añejo Cuatro rum 
+    2 oz Honey
+    1 oz Hot water
+    1 oz Simple syrup
+    1⁄2 oz Lime juice
+     Martini & Rossi prosecco, to top 
+}
+
+bacardi-ocho-old-fashioned{
+    2 oz Bacardí Reserva Ocho rum 
+    1⁄4 oz Simple syrup
+    2 dashes Angostura bitters
+}
+
+cazadores-con-cerveza{
+    1 1⁄2 oz Tequila Cazadores reposado 
+    1 bottle Mexican lager
+}
+
+bulleit-frontier-old-fashioned{
+    1 1⁄4 oz Bulleit bourbon 
+    2 barspoons Simple syrup
+    3 dashes Angostura bitters
+}
+
+george-dickel-tennessee-tuxedo{
+    1 1⁄2 oz George Dickel No. 12 whisky 
+    1⁄2 oz Amaro
+    1⁄2 oz Pear liqueur
+    1 tsp Smoked maple syrup
+    2 dashes Peach bitters
+}
+
+bombay-sapphire-peppered-peach-tea-tom-collins{
+    1 1⁄2 oz Bombay Sapphire gin 
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Simple syrup
+    1 1⁄2 oz Peach iced tea
+    1 pinch Black pepper
+    3 oz Club soda
+}
+
+patron-perfect-paloma{
+    1 1⁄2 oz Patrón reposado tequila 
+    2 3⁄4 oz Fresh grapefruit juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Agave syrup
+    1 oz Sparkling water 
+}
+
+gentleman-jack-alpenglow-aspro{
+    1 1⁄2 oz Gentleman Jack whiskey 
+    3⁄4 oz Pasubio vino amaro
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Concord grape and jasmine syrup*
+    1⁄2 oz Vanilla scented egg white
+    1 dash Orange bitters
+}
+
+gentleman-jack-tepiatl-sour{
+    2 oz Gentleman Jack whiskey 
+    3⁄4 oz Cinnamon-piloncillo syrup*
+    3⁄4 oz Acid-adjusted pineapple juice**
+    3 dashes 20% saline solution
+    1 dash Scrappy’s Firewater tincture bitters 
+}
+
+patron-citronge-cosmopolitan{
+    1 1⁄2 oz Ultimat vodka
+    1 oz Patrón Citrónge orange liqueur 
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Cranberry juice
+    1⁄4 oz Simple syrup
+}
+
+bacardi-lime-cranberry{
+    1 1⁄2 oz Bacardí Lime rum 
+    3 oz Cranberry juice
+}
+
+gentleman-jack-rock-da-boat{
+    1 1⁄2 oz Gentleman Jack whiskey 
+    1⁄2 oz Banana liqueur
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Mesquite-smoked orgeat*
+    1⁄4 oz Fresh pineapple juice
+}
+
+bombay-sapphire-and-tonic{
+    2 oz Bombay Sapphire dry gin 
+    4 oz Premium tonic water
+}
+
+bacardi-coco-pineapple{
+    1 oz Bacardí coconut rum 
+    3 oz Pineapple juice
+}
+
+cazadores-sangrita{
+    1 l Tomato juice
+    1 cup Orange juice
+    1 tsp Salt
+    1 tsp Dry pasilla chile (dried chilaca pepper)
+    1 tsp Ground pepper
+    30 dashes Worcester sauce
+    30 dashes Maggi sauce (optional)
+    1 oz Valentina hot sauce
+    4 oz Grenadine
+    4 oz Fresh lime juice
+}
+
+grey-goose-east-8{
+    1 1⁄2 oz Grey Goose vodka 
+    1 oz Pineapple juice
+    1⁄2 oz Aperol
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup
+    1⁄4 oz Passion fruit syrup
+}
+
+bombay-sapphire-negroni{
+    1 oz Bombay Sapphire gin 
+    1 oz Martini & Rossi bitter liqueur
+    1 oz Martini & Rossi rosso vermouth
+}
+
+gentleman-jack-gentleman-and-scholar{
+    2 oz Gentleman Jack whiskey 
+    1 oz Fresh lemon juice
+    1 oz Strawberry beer syrup*
+    1⁄2 oz Aqua fava**
+    2 spritzes Angostura bitters
+}
+
+bombay-sapphire-martini{
+    2 oz Bombay Sapphire gin 
+    3⁄4 oz Martini & Rossi dry vermouth
+}
+
+patron-anejo-old-fashioned{
+     Oil of 2 orange peels
+    2 oz Patrón añejo tequila 
+    1⁄4 oz Simple syrup
+    1 oz Fresh lime juice
+    1 dash Angostura bitters
+}
+
+grey-goose-salty-dog{
+    1 1⁄2 oz Grey Goose vodka 
+    3 oz Fresh pink grapefruit juice
+}
+
+banks-five-island-flamingo{
+    2 oz Banks 5 Island rum 
+    3⁄4  Fresh lime juice
+    3 oz Pink grapefruit soda
+}
+
+bacardi-original-mojito{
+    4  Lime wedges
+    2 tsp Extra fine sugar
+    12  Fresh mint leaves
+    2 oz Bacardí Superior rum 
+    1 oz Soda water
+}
+
+tequila-cazadores-hermosa-paloma{
+    1 1⁄4 oz Tequila Cazadores blanco 
+    1⁄4 oz St-Germain
+    1⁄4  Fresh lime juice
+    3 oz LaCroix mure pepino sparkling water
+}
+
+patron-jalisco-mule{
+    2 oz Patrón silver tequila 
+    3 oz Ginger beer
+    1⁄2 oz Fresh lime juice
+}
+
+george-dickel-rye-manhattan{
+    2 oz George Dickel rye whisky 
+    1 oz Sweet vermouth
+    3 dashes Angostura bitters
+}
+
+bulleit-bourbon-lemonade{
+    1 1⁄4 oz Bulleit bourbon 
+    4 oz Lemonade
+}
+
+bombay-spritz{
+    1 oz Bombay Sapphire gin 
+    1⁄2 oz Martini & Rossi Riserva Speciale bitter liqueur
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Honey syrup* 
+    2 oz Prosecco
+    1 oz Club soda
+}
+
+grey-goose-bucket-list{
+    1 oz Grey Goose vodka 
+    3⁄4 oz Génépi herbal liqueur
+    1⁄2 oz Fresh lemon juice
+    3⁄4 oz Honey syrup
+}
+
+gentleman-jack-st-catherines-sound{
+    1 1⁄2 oz Gentleman Jack whiskey 
+    1⁄2 oz Acid-adjusted sour mix (milk-washed)*
+    1⁄4 oz Braulio herbal liqueur
+    1⁄4 oz Creme de fraise des bois
+}
+
+grey-goose-sea-breeze{
+    1 1⁄2 oz Grey Goose vodka 
+    2 oz Fresh grapefruit juice
+     Cranberry juice, to top 
+}
+
+tequila-cazadores-jalapeno-margarita{
+    1 1⁄2 oz Cazadores blanco tequila 
+    1⁄2 oz Premium triple sec
+    1⁄2 oz Agave nectar
+    1 oz Fresh lime juice
+    1 slice Jalapeño pepper
+}
+
+bacard-hotel-nacional{
+    1 1⁄2 oz Bacardí Reserva Ocho rum 
+    3⁄4 oz Pineapple juice
+    1⁄2 oz Apricot liqueur
+    1⁄4 oz Fresh lime juice
+    1⁄4 oz Simple syrup
+}
+
+gentleman-jack-santorini-sour{
+    2 oz Gentleman Jack whiskey 
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Pistachio syrup*
+    1⁄4 oz Greek yogurt
+    3 dashes Angostura bitters
+}
+
+bacardi-cuba-libre{
+    2 oz Bacardí Gold rum 
+    4 oz Cola
+    2  Lime wedges
+}
+
+tequila-cazadores-classic-paloma{
+    1 1⁄2 oz Cazadores blanco tequila 
+    1 splash Fresh lime juice
+    1 pinch Salt
+     Grapefruit soda, to top
+}
+
+bacardi-cuatro-highball{
+    2 oz Bacardí Añejo Cuatro rum 
+    4 oz Ginger ale
+    1 dash Aromatic bitters
+}
+
+island-tea-time{
+    2 oz Chilled black tea
+    1 oz Banks 5 Island rum 
+    1⁄2 oz Orange curaçao
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup
+}
+
+french-press-sangria{
+    2 cup Red wine
+    2 cup White wine
+    1⁄4 cup Rum 
+    1⁄4 cup Cognac 
+    1⁄4 cup Grand Marnier 
+    1⁄4 cup Agave syrup
+    1⁄4 cup Raspberry purée
+    1  Orange, thinly sliced
+    1  Lime, thinly sliced
+    1  Lemon, thinly sliced
+}
+
+darkside{
+    2 1⁄2 oz Dry gin 
+    3⁄4 oz Barolo chinato
+    3 dashes Peychaud’s bitters
+}
+
+triple-berry-chamomile-frose{
+    6 oz Chapoutier Côtes du Rhône rosé 
+    2 oz Absolut vodka 
+    4 oz Kelvin frosé mix 
+    4 oz Triple berry shrub*
+    2 oz Brewed chamomile tea
+     Blueberry
+}
+
+sgroppino{
+    1 scoop Sorrento lemon sorbet
+    2 oz Valdo prosecco, chilled 
+    1⁄2 oz Tito’s Handmade vodka 
+}
+
+montego-mule{
+    1 1⁄2 oz Vodka  
+    1 oz Ginger juice*
+    1 oz Spice syrup**
+    1 oz Fresh lime juice
+}
+
+platinum-blond{
+    1 oz Grapefruit-rosemary-infused vodka* 
+    1⁄2 oz Elderflower liqueur 
+    1⁄2 oz Fresh grapefruit juice
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Simple syrup 
+}
+
+elder-greene-blues{
+    2 oz Cucumber-basil-infused vodka* 
+    1⁄2 oz Grand Marnier 
+    1⁄2 oz Infused basil syrup
+    1⁄2 oz Fresh lime juice
+}
+
+azunia-coco-curry-colada{
+    1 1⁄2 oz Madras-curry-infused Azuñia reposado organic tequila*
+    1⁄2 oz Stolen overproof rum
+    1 oz Coconut milk (full fat)
+    1 oz Coco Reàl cream of coconut 
+    3 1⁄2 oz Fresh pineapple juice
+    1⁄2 oz Fresh lime juice
+}
+
+hennessy-ginger{
+    1 1⁄2 oz Hennessy V.S. cognac 
+    3 1⁄2 oz Ginger ale
+}
+
+azunia-verano-en-valencia{
+    1 1⁄2 oz Azuñia reposado organic tequila
+    1⁄2 oz Taylor Fladgate dry white port 
+    1⁄2 oz Giffard apricot liqueur
+    1⁄2 oz Fresh lemon juice
+    2 oz Fever-Tree Mediterranean tonic water
+}
+
+hennessy-blueberry-mojito{
+    1 1⁄2 oz Hennessy V.S.O.P Privilège cognac  
+    3⁄4 oz Simple syrup
+    1⁄2 oz Fresh lime juice
+    4  Blueberries
+     Soda water, to top 
+}
+
+hennessy-mango-basil-lemonade{
+    1 1⁄2 oz Hennessy V.S. cognac 
+    1 oz Fresh lemon juice
+    1⁄2 oz Mango purée
+    1⁄2 oz Simple syrup
+     Soda water, to top 
+}
+
+hennessy-jalapina{
+    2 slices Jalapeño
+    1 1⁄2 oz Hennessy V.S. cognac 
+    3 oz Pineapple juice
+}
+
+pink-peppercorn-botanical-gimlet{
+    2 oz Square One Botanical vodka 
+    1 oz Fresh lime juice
+    1⁄2 oz Agave nectar
+    1⁄4 oz Pink peppercorns
+}
+
+wormhole-warrior{
+    1 oz Cocalero Clásico Herbal Spirit Vodka 
+    1 oz Dry vermouth 
+    3⁄4 oz Tempus Fugit Gran Classico bitter 
+    1 dash Orange bitters
+}
+
+botanical-bees-knees{
+    2  Chamomile tea bags
+    2 oz Ketel One Botanical Peach & Orange Blossom vodka 
+    3⁄4 oz Fresh lemon juice
+    1 tsp Honey
+}
+
+life-on-mars{
+    1 1⁄2 oz Grey Goose La Poire vodka 
+    1⁄2 oz Pomp & Whimsy gin liqueur 
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Lavender-lychee syrup*
+    2 oz Soda water
+}
+
+south-mint-75{
+    1 oz Sutler’s gin 
+    3⁄4 oz Lemongrass syrup*
+    3⁄4 oz Fresh lemon juice
+    6  Mint leaves
+     Brut cava, to top
+}
+
+rosemary-mezcal-negroni{
+    1 1⁄4 oz Mezcal 
+    1 oz Sweet vermouth 
+    1 oz Rosemary-infused Campari*
+}
+
+1928-sea-breeze{
+    2 oz Gordon’s gin 
+    1⁄4 oz Homemade grenadine* 
+    3 oz Fresh pink grapefruit juice, to top
+}
+
+sea-breeze-cooler{
+    1 oz Dry gin 
+    1 oz Apricot brandy 
+    2 dashes Grenadine
+     Juice of 1/2 a lemon
+     Soda water, to top 
+}
+
+peach-me{
+    1  Luxardo maraschino cherry 
+    1  Orange slice
+    3 dashes Angostura orange bitters 
+    2 1⁄2 oz Woodford Reserve bourbon 
+    1⁄2 oz Peach schnapps
+}
+
+tea-for-two{
+    2  Lemons, peeled and reserved
+    1⁄2 cup Sugar
+    2 cup Jamaican rum 
+    1 cup Cognac 
+    1⁄4 cup Peach schnapps
+    2 cup Brewed black tea
+    1⁄2 cup Fresh lemon juice, from reserved lemons
+}
+
+mule{
+    1 oz Dark rum, vodka, tequila, mezcal or gin
+    1 oz Peach schnapps
+    1⁄4 oz Ginger juice*
+    1⁄2 oz Fresh lime juice
+     Fentimans ginger beer, to top 
+}
+
+brandy-sangaree{
+    1⁄2 tsp Sugar
+    1 tsp Water
+    2 oz Brandy 
+    1 oz Port wine
+}
+
+definite-maybe{
+    1 oz Banhez mezcal 
+    1⁄2 oz Dolin génépy 
+    1 oz Orange juice
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Mint simple syrup 
+    2 dashes Angostura bitters 
+}
+
+grey-goose-blood-orange-sangria{
+    1 oz Grey Goose vodka 
+    1⁄2 oz French pinot noir
+    1⁄2 oz Fresh lemon juice
+    4 oz Fresh pomegranate juice
+    3⁄4 oz Fresh blood orange juice
+    1  Orange, cut into wedges
+    2  Lemon wheels
+    1 pinch Powdered clove 
+}
+
+santa-teresa-1796-old-fashioned{
+    1 1⁄2 oz  Santa Teresa 1796 rum 
+    1⁄3 oz Demerara syrup
+    4 dashes Angostura bitters
+}
+
+grey-goose-green-fairy{
+    1 1⁄2 oz Grey Goose Le Citron vodka 
+    1 oz Fresh lime juice
+    1 oz Melon schnapps
+    1⁄2 oz Monin pomme verte syrup*
+}
+
+tequila-sunrise-3{
+    1 1⁄2 oz Espolón reposado tequila 
+    3 oz Fresh Cara Cara orange juice
+    1⁄4 oz Spiced grenadine*
+}
+
+jeez-louise{
+    1 1⁄2 oz Averna amaro 
+    1⁄2 oz Cynar 
+    3⁄4 oz Cointreau 
+    3⁄4 oz Fresh lime juice
+     Soda water, to top 
+}
+
+whiskey-sour-3{
+    2 oz Heaven Hill bourbon 
+    1 oz Fresh lemon juice
+    3⁄4 oz Simple syrup 
+    1  Egg white
+    1 barspoon Chianti red wine float
+}
+
+great-british-food-sussex-75{
+    1 3⁄4 oz Hendrick’s gin 
+    3⁄4 oz Fresh lemon juice
+     Ridgeview English sparkling wine, to top 
+}
+
+wild-turkey-101-old-fashioned{
+    2 oz Wild Turkey 101 bourbon 
+    1⁄4 oz Simple syrup
+    2 dashes Angostura bitters
+}
+
+flor-de-cana-volcanico{
+    2 oz Flor de Caña 12-year-old rum
+    1⁄2 oz Cold-brew coffee liqueur
+    1⁄4 oz Ancho Reyes chile liqueur
+    2 dashes Orange bitters
+}
+
+grey-goose-leafy-green{
+    1 1⁄4 oz Grey Goose vodka 
+    1⁄2 oz Elderflower cordial
+    1⁄2 oz Fresh lime juice
+    3⁄4 oz Celery juice
+    1 dash Chartreuse
+     Soda water, to top 
+}
+
+blue-hawaiian{
+    1 1⁄2 oz Light rum 
+    3⁄4 oz Blue curaçao
+    2 oz Pineapple juice
+    3⁄4 oz Creme de coconut
+    1⁄2 oz Fresh lemon juice
+}
+
+bebbo{
+    1 1⁄2 oz London dry gin 
+    1 oz Honey syrup (equal parts honey and water)
+    3⁄4 oz Fresh lemon juice
+    1⁄4 oz Fresh blood orange juice
+}
+
+patron-margarita{
+    1 1⁄2 oz Patrón silver tequila 
+    1 oz Patrón Citrónge orange liqueur
+    3⁄4 oz Fresh lime juice
+    1⁄4 oz Simple syrup
+}
+
+great-british-food-summer-serve-copa{
+    1 3⁄4 oz Portobello Road gin
+     Tonic water, to top
+}
+
+florodoro{
+    1 oz The Botanist gin 
+    1 oz Valdespino Inocente fino sherry
+    1 oz Fresh lime juice
+    1⁄2 oz Giffard crème de framboise liqueur  
+    1⁄4 oz Simple syrup 
+     Ginger beer, to top
+}
+
+macaulay-culkin{
+    1 oz Blanco tequila 
+    1 oz Amaretto
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Agave syrup
+    1  Egg white
+    4 dashes Chocolate bitters
+}
+
+spiced-margarita{
+    1 wedge Lime
+    3 wheels Jalapeño
+    2 oz Blanco tequila 
+    3⁄4 oz Amaretto
+    1 oz Fresh lime juice
+}
+
+amaretto-french-75{
+    1 1⁄2 oz Nikka Coffey gin 
+    1⁄2 oz Amaretto
+    3⁄4 oz Fresh lemon juice
+    2 oz Brut sparkling wine, chilled
+}
+
+finlandia-oaks-lily{
+    1 1⁄4 oz Finlandia vodka
+    1⁄4 oz Triple sec
+    3 oz Cranberry juice
+    1 oz Sweet-and-sour mix
+}
+
+flor-de-cana-sparkling{
+    1 1⁄2 oz Flor de Caña 18-year-old rum
+    1 splash Premium sparkling water
+}
+
+jack-daniels-brooklyn{
+    1 1⁄2 parts Jack Daniel’s Tennessee Rye whiskey
+    1 1⁄2 parts  Dry vermouth
+    1⁄3 parts Amer Picon
+    1⁄3 parts Maraschino liqueur 
+}
+
+jack-daniels-brunswick{
+    2 parts Jack Daniel’s Tennessee Rye whiskey
+    3⁄4 parts  Fresh lemon juice
+    1⁄2 parts Simple syrup
+    3⁄4 parts  Claret red wine
+}
+
+jack-daniels-sazerac{
+     Absinthe, to rinse
+    2 parts Jack Daniel’s Tennessee Rye whiskey
+    1⁄2 parts Simple syrup
+    3 dashes Peychaud’s bitters
+}
+
+earl-grey-marteani{
+    1 1⁄2 oz Earl Grey–tea-infused Tanqueray gin * 
+    3⁄4 oz Fresh lemon juice
+    1 oz Simple syrup 
+    1  Egg white
+}
+
+trash-tiki-citrus-stock{
+    51 oz Water
+    2 1⁄5 lb Citrus husks (halved and juiced)
+    1  Large strainer (such as Superbag or chinois)
+    1⁄3 cup White sugar
+     Citric acid*
+     Malic acid*
+}
+
+peeping-tom{
+    1 1⁄2 oz Old Tom gin 
+    1⁄2 oz Crème de violette
+    1 oz Fresh lemon juice
+    3⁄4 oz Simple syrup 
+}
+
+irish-affogato{
+    3⁄4 oz Irish whiskey 
+    1⁄2 oz Baileys Irish cream 
+    1 scoop Coffee ice cream
+    1 1⁄2 oz Cold-brew coffee
+}
+
+manhattan-3{
+    1 1⁄2 oz Buffalo Trace bourbon 
+    1 oz Carpano Antica Formula sweet vermouth 
+    1⁄2 oz Green Chartreuse 
+    1⁄4 oz Simple syrup 
+    1 dash Regan’s Orange Bitters No. 6 
+    1 dash Angostura bitters 
+     Orange peel oil
+}
+
+brother-hal{
+    3⁄4 oz Matusalem platino rum 
+    3⁄4 oz Banhez mezcal 
+    1⁄2 oz Green Chartreuse 
+    1⁄2 oz John D. Taylor’s Velvet falernum 
+    1 oz Fresh lime juice
+    3⁄4 oz Fresh orange juice
+}
+
+bonpland{
+    1⁄2 oz Green Chartreuse 
+    2 oz Clase Azul reposado tequila 
+    3 dashes Bittermens Xocolatl Mole bitters 
+    1 splash Fresh lime juice
+    1  Sugar cube
+}
+
+chrysanthemum{
+    2 oz Dry vermouth 
+    1 oz Bénédictine 
+    3 dashes Absinthe 
+}
+
+absolut-sex-on-the-beach{
+    3⁄4 oz Absolut vodka 
+    3 1⁄3 oz Light orange juice
+    3 1⁄3 oz Cranberry juice
+    3⁄4 oz Peach schnapps
+}
+
+absolut-lime-mule{
+    1 1⁄2 oz Absolut Lime vodka 
+    1⁄2 oz Lime juice
+    oz Ginger beer, to top
+}
+
+absolut-bay-breeze{
+    1 1⁄2 oz Absolut vodka 
+    2 1⁄2 oz Cranberry juice
+    2 1⁄2 oz Pineapple juice
+}
+
+absolut-hanna-wallbanger{
+    1 1⁄2 oz Absolut vodka 
+    2⁄3 oz Galliano liqueur
+     Passion fruit juice, to top
+}
+
+absolut-lime-soda{
+    1 1⁄2 oz Absolut Lime vodka 
+    1⁄2 oz Lime juice
+    1 oz Soda water
+}
+
+absolut-mudslide{
+    1 oz Absolut vodka 
+    1⁄2 oz Cream liqueur
+    1⁄2 oz Kahlúa coffee liqueur
+}
+
+absolut-french-martini{
+    1 1⁄2 oz Absolut vodka 
+    1 1⁄2 oz Pineapple juice
+    1⁄2 oz Raspberry liqueur
+}
+
+absolut-citron-gimlet{
+    1 1⁄2 oz Absolut Citron 
+    3⁄4 oz Simple syrup
+    3⁄4 oz Lime juice
+}
+
+absolut-vodka-gimlet{
+    1 1⁄2 oz Absolut vodka 
+    3⁄4 oz Lime cordial
+}
+
+redemption-rye-espresso-old-fashioned{
+    2 oz Redemption rye whiskey
+    2 oz Espresso or cold-brew coffee
+    1⁄4 oz Simple syrup
+    1 dash Peychaud's bitters
+    1 dash Absinthe, to rinse
+}
+
+absolut-grapefruit-drop{
+    1 oz Absolut Grapefruit vodka 
+    2⁄3 oz Lemon juice
+    1⁄3 oz Triple sec
+    1⁄3 oz Simple syrup
+}
+
+absolut-swedish-paloma{
+    1 1⁄2 oz Absolut Grapefruit vodka 
+    1 1⁄2 oz Red grapefruit juice
+    1⁄3 oz Lime juice
+     Soda water, to top 
+}
+
+redemption-rye-herb-ginger-julep{
+    2 oz Redemption rye whiskey
+    1⁄2 oz Basil-ginger-mint syrup*
+    2 dashes Angostura bitters
+    7 leaves Mint
+}
+
+absolut-white-cosmopolitan{
+    1 1⁄3 oz Absolut Citron vodka 
+    2⁄3 oz Triple sec
+    2⁄3 oz Lime juice
+    2⁄3 oz White cranberry juice
+}
+
+absolut-vodka-martini{
+    1 1⁄2 oz Absolut vodka 
+    1 oz Dry vermouth
+}
+
+fever-tree-half-moon-bay{
+    2 oz Lillet blanc liqueur
+    4 oz Fever-Tree Spiced Orange ginger ale
+}
+
+absolut-blackberry-punch{
+    1 oz Absolut vodka 
+    1⁄3 oz Chambord liqueur
+    2⁄3 oz Lemon juice
+    2⁄3  Simple syrup
+     Champagne, to Top
+}
+
+absolut-peppar-bloody-mary{
+    1 1⁄2 oz Absolut Peppar vodka 
+    2 1⁄2 oz Tomato juice
+    3 dashes Hot sauce
+    2 dashes Worcestershire sauce
+    1 oz Lemon juice
+    1 oz Lime juice
+    1 pinch Ground black pepper
+    1 pinch Salt
+}
+
+absolut-mimosa{
+    3⁄4 oz Absolut vodka 
+    1 2⁄3 oz Orange juice
+     Champagne, to Top
+}
+
+absolut-grapefruit-mule{
+    1 1⁄2 oz Absolut Grapefruit 
+    1⁄2 oz Lime juice
+     Splash of Ginger beer
+}
+
+shamrock-shot{
+    1 1⁄4 oz Vanilla vodka 
+    1 1⁄4 oz Crème de menthe
+    4 dashes Chocolate bitters
+    2 oz Heavy cream 
+}
+
+local-old-fashioned{
+    2 oz Nikka Japanese whisky blend* 
+    1⁄2 tsp White sugar
+    2 dashes Angostura bitters 
+}
+
+rumplesnuggler{
+    1 1⁄2 oz Baileys Irish cream liqueur 
+    1 oz Rumple Minze peppermint schnapps 
+    8 oz Hot chocolate
+}
+
+porters-old-fashioned{
+    1 1⁄2 oz Alpine Traveler's Rest American single-malt whiskey 
+    1⁄8 oz Wasatch Polygamy porter syrup*
+    2 dashes Bitters Lab Charred Cedar & Currant bitters 
+    1 dash Angostura bitters 
+}
+
+flinns-apres-steazy{
+    1 1⁄2 oz Lucano amaro   
+    3⁄4 oz Woody Creek rye whiskey 
+    3⁄4 oz Campari
+    1⁄2 oz St-Germain 
+    3⁄4 oz Fresh lemon juice
+}
+
+cache-stash{
+    1 1⁄2 oz Bulleit rye whiskey 
+    1 oz Blueberry purée
+    1 oz Fresh lemon juice
+    1⁄4 oz Simple syrup 
+    3 oz Lemonade
+     Soda water, to top 
+}
+
+yard-sale{
+    3⁄4 oz Bourbon 
+    3⁄4 oz Rye whiskey 
+    3⁄4 oz Calvados 
+    3⁄4 oz Carpano Antica Formula vermouth 
+    2 dashes Angostura bitters 
+    1⁄4 oz Simple syrup 
+}
+
+toblerone{
+    3⁄4 oz Kahlúa 
+    3⁄4 oz Frangelico 
+    3⁄4 oz Baileys Irish cream 
+    1⁄2 oz Honey syrup
+    1 oz Heavy cream 
+}
+
+apple-chai-gin-and-tonic{
+    1 1⁄2 oz Bluecoat American dry gin 
+    3⁄4 oz Apple chai syrup*
+     Tonic, to top
+}
+
+curiosity-killed-the-cat-you-know{
+    1 oz Monkey 47 gin 
+    1 oz Alpe génépy 
+    1 oz Macvin du Jura liqueur wine
+    1⁄4 oz Honey syrup
+    2 dashes Fresh lemon juice
+    3 oz Chamomile tea, heated
+}
+
+french-harvest{
+    1 1⁄2 oz Nolet’s silver dry gin 
+    3⁄4 oz Simple syrup 
+    3⁄4 oz Fresh lemon juice
+     Le Brun organic cidre (or dry sparkling cider), to top 
+}
+
+golden-purl{
+    1 cup Cider
+    1 tbsp Runamok bourbon-barrel-aged maple syrup 
+    1 1⁄2 oz Leopold’s American small-batch gin  
+    2 dashes Orange bitters
+}
+
+coffee-and-cigarettes{
+    1 1⁄2 oz The Block Autumn gin 
+    1 oz The Block coffee liqueur 
+    5 oz Q tonic water 
+}
+
+forest-sprite{
+    1 1⁄2 oz Citadelle gin 
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Pine syrup*
+     Seltzer, to top
+    3 dashes Cocktailpunk Alpino cocktail bitters 
+}
+
+painkiller-2{
+    2 1⁄2 oz Dark or navy-strength rum 
+    2 1⁄2 oz Pineapple juice
+    1 oz Orange juice
+    1 oz Cream of coconut
+}
+
+bitter-hearts-know-better{
+    2 oz Hibiscus-infused gin* 
+    1 oz Fresh lime juice
+    3⁄4 oz Simple syrup 
+    1⁄2 oz Lo-Fi gentian amaro 
+}
+
+pisco-sour-3{
+    2 oz Pisco quebranta 
+    1 oz Fresh lime juice
+    1 oz Simple syrup 
+    1⁄4 oz Egg white
+}
+
+cobbler{
+    1 1⁄2  Fino sherry 
+    1 oz Chambord 
+    1⁄4 oz Fresh lemon juice
+}
+
+pisco-bramble{
+    2 oz Pisco 
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup 
+    1⁄2 oz Chambord 
+}
+
+shes-no-gentleman{
+    1 1⁄2 oz Black Bottle blended scotch 
+    3⁄4 oz Chambord 
+    1⁄4 oz Earl Grey syrup*
+    1⁄2 oz Cream
+}
+
+hot-blooded{
+    2 oz Rye whiskey 
+    1⁄2 oz Ancho Reyes ancho chile liqueur 
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Blood orange juice
+    1⁄2 oz Simple syrup 
+    4 dashes Hot sauce
+}
+
+suffering-bastard{
+    1 oz Bourbon 
+    1 oz London dry gin 
+    1⁄2 oz Fresh lime juice
+    2 dashes Angostura bitters 
+     Ginger ale, to top
+}
+
+cbd-spritz{
+    1 oz Vodka 
+    1 oz Aperol 
+    2 oz Sparkling wine 
+    2 oz Sprig CBD-infused zero-sugar sparkling citrus soda 
+}
+
+picon-punch{
+    1 1⁄2 oz Amer Picon*
+    1⁄4 oz Grenadine
+     Soda water, to top 
+    1⁄2 oz Brandy 
+}
+
+celery-sour{
+    2 oz Pineapple-infused gin*
+    1 tsp Licor 43 
+    3⁄4 oz Celery syrup**
+    3⁄4 oz Fresh lemon juice
+    1 tsp Greek yogurt
+    2 dashes Cucumber bitters
+}
+
+lounge-chair-afternoon{
+    1 1⁄2 oz Croft pink port 
+    3⁄4 oz Siete Leguas añejo tequila 
+    3⁄4 oz Grapefruit juice
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Tarragon simple syrup*
+}
+
+improved-dunlop{
+    2 oz Croft Reserve tawny port 
+    1 oz Clément X.O. rhum agricole 
+    1 barspoon Cane sugar syrup
+    1 dash Bittermens Xocolatl Mole bitters 
+}
+
+new-york-sour-3{
+    2 oz Bourbon 
+    3⁄4  Simple syrup 
+    3⁄4  Fresh lemon juice
+    1 oz Tawny port
+}
+
+annie-oakley{
+    3⁄4 oz Chareau aloe liqueur 
+    2 oz Hibiscus-thyme shrub*
+    1 oz Ozeki dry sake 
+}
+
+hello-sun{
+    3 leaves Mint
+    2 slices Cucumber
+    3⁄4 oz Fresh lime juice
+    2 oz Banhez mezcal 
+    1 1⁄2 oz Aloe liqueur*
+}
+
+golden-geisha{
+    1 1⁄2 oz Grey Goose vodka 
+    2⁄3 oz Aloe vera juice
+    2⁄3 oz Apple juice
+    1⁄3 oz Fresh lemon juice
+    8  Raspberries
+}
+
+not-tested-on-animals{
+    1 1⁄2 oz Mahón gin  
+    2 oz Alo aloe vera and white grape juice 
+    1⁄2 oz Tarragon syrup*
+    1 dash Saline tincture (1:1 ratio of salt to water)
+     Ginger beer, to top
+}
+
+mozart-get-off-my-isle{
+    2 oz Peanut butter-washed scotch*
+    1⁄2 oz Mozart Chocolate Cream Liqueur
+    1⁄2 oz Cookie dough liqueur**
+    1⁄2 oz Ponche de Crema
+    1⁄4 oz Angostura bitters
+}
+
+mozart-strawberry-runner{
+    2 oz Dark rum
+    2  Strawberries
+    4  Blueberries
+    3⁄4 oz Mozart White Chocolate Cream Strawberry Liqueur
+    1⁄4 oz Amaretto
+    1 barspoon Yogurt
+    4 dashes Bob’s vanilla bitters 
+    3 dashes Fee Brothers Whiskey Barrel-Aged bitters
+}
+
+mozart-fixer-upper{
+    2 oz Vodka 
+    3⁄4 oz Mozart White Chocolate Vanilla Cream Liqueur
+    1 oz Cynar 70
+    3 dashes Bittermens mole bitters 
+    1 oz Unsweetened espresso 
+}
+
+topsy-turvy{
+    2 oz Carpano Antica Formula vermouth 
+    1 oz Lock Stock & Barrel rye whiskey 
+    1 tsp Caffè Borghetti coffee liqueur 
+    1 dash Bittermens Xocolatl Mole bitters 
+}
+
+reverse-manhattan{
+    2 oz Sweet vermouth blend* 
+    1 oz Rye whiskey 
+    2 dashes Angostura bitters 
+}
+
+full-monte{
+    2 oz Amaro Montenegro 
+    1 oz Knob Creek rye whiskey 
+    1 dash Angostura bitters 
+    1  Orange peel
+}
+
+diamond-district{
+    2 oz Carpano Antica Formula vermouth 
+    1 oz Sancho-pepper-infused Wild Turkey 101 rye whiskey* 
+    2 dashes Scrappy’s lime bitters 
+}
+
+downhill-daring{
+    1 1⁄2 oz Punt e Mes 
+    1⁄2 oz Cocchi Americano aperitivo 
+    1⁄4 oz Bénédictine 
+    1 oz Old Forester Signature bourbon  
+    2 dashes Angostura bitters 
+    2 dashes Regan’s Orange Bitters No. 6 
+}
+
+kimchi-gibson{
+    1 oz Hayman's Old Tom gin 
+    1 oz Beefeater London dry gin 
+    1⁄2 oz Cilantro-infused Dolin blanc vermouth* 
+    1⁄2 oz Kehoe’s Kitchen white kimchi juice 
+}
+
+lions-tail{
+    2 oz Bourbon 
+    4 dashes Angostura bitters 
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup 
+    1⁄2 oz Allspice dram
+}
+
+fresh-strawberry{
+    3  Fresh strawberries, quartered
+    1 oz Gin, vodka, rum or tequila
+    3⁄4 oz Strawberry liqueur
+    1⁄2 oz Cranberry juice
+    1⁄4 oz Fresh lime juice
+}
+
+umami-apple{
+    1 1⁄3 oz Vodka 
+    1 1⁄3 oz Fresh apple juice
+    1⁄3 oz Fresh lemon juice
+    1⁄4 oz Umami syrup*
+}
+
+bath-time{
+    1 1⁄2 oz Tequila 
+    3⁄4 oz Sauvignon blanc
+    1⁄4 oz Fresh lemon and lime juice (1:1 blend of each)
+    5  Green muscat grapes
+    2  Coriander leaves (optional) 
+    2  Mint leaves (optional)
+}
+
+living-seance{
+    1 oz Träkál 
+    1 oz Olmeca Altos añejo tequila 
+    1⁄2 oz Sweet vermouth 
+    1⁄4 oz Grand Poppy amaro 
+    1 barspoon Maraschino liqueur 
+    3 dashes Scrappy's black lemon bitters  
+}
+
+notro{
+    2 oz Träkál 
+    1⁄4 oz The Bitter Truth Bogart’s bitters 
+    1⁄2 oz Lemon hibiscus syrup*
+    1⁄2 oz Fresh lemon juice
+    1 drop Orange essential oil
+    2 dashes Angostura bitters 
+}
+
+kal-it-magic{
+    1 1⁄2 oz Träkál 
+    1⁄5 oz St-Germain
+    1 barspoon CapRock pear brandy (or other pear brandy) 
+    1 oz Coconut water
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Arbol chile syrup*
+     Butterfly pea flower tea, to top**
+}
+
+holiday-hooch{
+    3⁄4 oz Underground moonshine 
+    3 oz Mr. Stacks gingerbread liqueur 
+    3 oz Illy coffee 
+}
+
+pow-pow{
+    1 oz Apple pie moonshine (such as Midnight Moon or Ole Smoky)
+    1 oz Apple cider
+    1⁄2 oz Chai syrup*
+     Hot water, to top
+}
+
+moon-dance{
+    2 oz Hudson New York corn whiskey 
+    1⁄2 oz Cocchi Americano aperitivo 
+    1⁄2 oz Routin dry vermouth 
+    1⁄4 oz Green Chartreuse 
+    1⁄4 oz Maraschino liqueur 
+    1 dash Orange bitters
+}
+
+hennessy-black-gimlet{
+    1 1⁄2 oz Hennessy Black cognac 
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Simple syrup
+}
+
+hennessy-vsop-sazerac{
+    2 1⁄2 oz Hennessy VSOP Privilège cognac
+    1⁄2 oz Simple syrup
+    5 dashes Peychaud’s bitters
+    1⁄8 oz Absinthe
+}
+
+hennessy-ginger-mint-punch{
+    13 1⁄2 oz Hennessy V.S. cognac
+    70  Mint leaves
+    20  Ginger slices
+    10  Cinnamon sticks
+    10 oz Fresh lime juice
+    3 oz Cinnamon syrup*
+    1 1⁄2 oz Simple syrup
+    20 oz Ginger ale
+}
+
+blue-blazer{
+    4 oz Cask-strength scotch 
+    2 tsp Demerara or raw sugar
+    3 oz Boiling water (plus more boiling water to heat mugs)
+}
+
+audrey-saunders-tom-and-jerry{
+    2 oz Tom & Jerry batter*
+    1 oz Plantation Barbados rum 
+    1 oz Pierre Ferrand Ambre cognac 
+    6 oz Milk, heated
+}
+
+rockeys-rum-swizzle{
+    1 oz Rockey’s Milk Punch liqueur 
+    1 oz Light rum 
+    1 oz Pineapple juice
+    1⁄2 oz Fresh lime juice
+}
+
+beauty-elixir{
+    1 1⁄2 oz The Botanist gin 
+    1⁄2 oz Campo Viejo cava brut 
+    3⁄4 oz Funkin strawberry purée  
+    1⁄2 oz Cucumber water 
+    1⁄4 oz Fresh lemon juice
+    3⁄4 oz Simple syrup 
+}
+
+pera-de-madeira{
+    1 oz Avuá Bálsamo aged cachaça 
+    1⁄2 oz Denizen aged white rum 
+    1⁄2 oz Smith & Cross rum 
+    1⁄2 oz Matcha syrup*
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Pear juice
+     Pernod absinthe, to mist 
+}
+
+jingle-ball{
+    2 oz Pine-infused vodka, chilled* 
+    4 oz Soda water, chilled
+    1⁄4 oz Cranberry juice
+}
+
+elijah-craig-smoke-signal-old-fashioned{
+    2 oz Elijah Craig small-batch bourbon
+    1⁄2 oz Simple syrup
+    3 dashes Angostura bitters
+}
+
+trinidad-sour{
+    1 1⁄2 oz Angostura bitters 
+    1 oz Orgeat
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Rye whiskey 
+}
+
+bourbon-rosemary-punch{
+    1 bottle Rosemary-infused Aperol (750 mL)* 
+    12 oz Bourbon 
+    6 oz Honey syrup
+    6 oz Grapefruit juice
+    1 bottle Dry sparkling wine (750 mL)
+    1 bottle Soda water (750 mL)
+}
+
+bitter-temptation{
+    3⁄4 oz Fernet-Branca 
+    1⁄2 oz Tempus Fugit crème de cacao 
+    1 oz Gragnano vino (sparkling red wine similar to lambrusco)
+    1 oz Cold-brew coffee
+    3⁄4 oz Vanilla syrup
+}
+
+jeffrey-morgenthalers-hot-toddy{
+    1 1⁄2 oz Bourbon 
+    1 oz Ginger syrup*
+    3⁄4 oz Fresh lemon juice
+    1 tsp Allspice or pimento dram
+}
+
+dale-degroffs-mojito{
+    6  Mint leaves
+    1 1⁄2 oz White rum 
+    3⁄4 oz Simple syrup 
+    3⁄4 oz Fresh lime juice
+    1 1⁄2 oz Club soda
+}
+
+drunk-uncle{
+    1 1⁄2 oz Islay scotch (such as Bowmore or Laphroaig) 
+    3⁄4 oz Martini & Rossi bianco vermouth 
+    3⁄4 oz Cynar amaro 
+}
+
+south-by-southwest{
+    1 oz Ardbeg 10-year-old scotch 
+    1 oz Dolin sweet vermouth
+    1 oz Campari 
+     Orange blossom water, to mist
+}
+
+spanish-armada{
+    1 oz El Dorado 12-year-old rum 
+    1 oz Lustau Brandy de Jerez 
+    1⁄4 oz The Famous Grouse Smoky Black blended scotch 
+    1⁄4 oz Lustau PX sherry 
+    1⁄4 oz Bigallet China-China amer
+    1 dash Bittercube Jamaican No. 1 bitters 
+    1 dash Angostura bitters 
+    3 drops The Bitter End curry bitters 
+}
+
+pumpkin-toddy{
+    1 oz Apple brandy
+    1⁄2 oz Rye whiskey 
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Grade B maple syrup
+    1 tsp Pumpkin purée 
+    2 drops Angostura bitters 
+}
+
+gold-rush{
+    2 oz Bourbon 
+    1 oz Honey syrup (equal parts honey and water)
+    3⁄4 oz Fresh lemon juice
+}
+
+casa-dragones-sunset{
+    1 3⁄4 oz Casa Dragones blanco tequila
+    1⁄4 oz Yellow Chartreuse
+    1⁄2 oz Carrot juice
+    1⁄2 oz Orange juice
+    1  Egg white
+}
+
+torres-barcelona-pain-killer{
+    1 1⁄2 oz Torres 15 brandy
+    1 oz Pineapple juice
+    3⁄4 oz Cream of coconut
+    1⁄2 oz Orange juice
+}
+
+torres-riot-act{
+    1 oz Torres 15 brandy
+    1 oz Grilled pineapple-infused genever*
+    1⁄2 oz Amaro Nonino
+    1⁄2 oz Brown rice syrup**
+    2 dashes Saline solution
+    1 dash Bitter Truth aromatic bitters
+}
+
+torres-vuelo-de-la-selva{
+    1 oz Torres 15 brandy
+    1⁄2 oz Contratto Bitter liqueur
+    1⁄2 oz Jamaican rum 
+    1 1⁄2 oz Pineapple juice
+    3⁄4 oz Lime juice
+    1⁄2 oz Simple syrup
+}
+
+frank-caiafas-rob-roy{
+    2 oz Blended scotch (such as Chivas) 
+    1 oz Sweet vermouth (such as Dolin or Martini & Rossi) 
+    2 dashes Regans’ Orange Bitters No. 6 
+}
+
+devils-margarita{
+    1 1⁄2 oz Blanco tequila 
+    1 oz Fresh lime juice
+    3⁄4 oz Simple syrup 
+    1⁄2 oz Red wine
+}
+
+casa-dragones-rocks{
+    1 1⁄2 oz Casa Dragones blanco tequila
+}
+
+casa-dragones-cilantro-margarita{
+    1 1⁄2 oz Casa Dragones blanco tequila
+    3⁄4 oz Cointreau
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Simple syrup
+    1⁄4 cup Cilantro
+    1 pinch Salt
+}
+
+casa-dragones-winter-flower{
+    1 1⁄2 oz Casa Dragones blanco tequila
+    1⁄4 oz Bénédictine
+    4 1⁄4 oz Hot hibiscus tea
+    1⁄2 oz Grenadine
+}
+
+beton{
+    2 oz Becherovka liqueur 
+    4 oz Tonic water
+}
+
+always-sunny{
+    1 1⁄2 oz The King’s ginger liqueur 
+    1⁄2 oz BarSol Puro Quebranta pisco 
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Turmeric simple syrup*
+    1 splash Mionetto prosecco 
+}
+
+huli-pau{
+    1 1⁄2 oz El Dorado five-year-old rum 
+    1 oz Coco Lopez cream of coconut 
+    1 oz Aloe juice
+    4 oz Pineapple wedges
+    10  Mint leaves
+    10  Tarragon leaves
+    1⁄2 tsp Peanut oil
+}
+
+clairin-regal-sour{
+    1 1⁄2 oz Clairin Vaval rum
+    3⁄4 oz Fresh Key lime juice (or lemon juice)
+    3⁄4 oz Raw honey syrup*
+    1 pinch Sea salt
+    2 dashes Scrappy's grapefruit bitters
+}
+
+bacardi-ocho-old-cuban{
+    2 oz Bacardí Reserva Ocho rum 
+    3⁄4 oz Simple syrup
+    1 oz Fresh lime juice
+    6  Mint leaves
+    2 dashes Angostura bitters
+     Martini & Rossi prosecco, to top 
+}
+
+bacardi-cuatro-smash{
+    1 1⁄2 parts BACARDĺ Añejo Cuatro rum 
+    1 parts St-Germain
+    1 parts Ruby red grapefruit juice
+     Tonic water, to top
+}
+
+bourbon-cider-slushie{
+    2 oz Bourbon 
+    3⁄4 oz Cinnamon vanilla syrup*
+    3⁄4 oz Fresh lemon juice
+    1 oz Apple cider
+}
+
+pearl-diver{
+    1 1⁄2 oz Aged column-still rum 
+    1⁄2 oz Demerara rum
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Fresh orange juice
+    1⁄2 oz Don’s Gardenia Mix 
+    1 dash Angostura bitters 
+}
+
+dons-gardenia-mix{
+    1 oz Honey
+    1 oz Unsalted butter
+    1 tsp Cinnamon syrup*
+    1⁄2 tsp Allspice liqueur
+    1⁄2 tsp Vanilla syrup
+}
+
+bourbon-root-beer{
+    2 oz Bourbon 
+    6 oz Root beer
+}
+
+white-summer-sazerac{
+    1 oz Kings County moonshine (white corn whiskey) 
+    1⁄2 oz Kings County Empire rye whiskey 
+    1⁄2 oz Singani 63 brandy 
+    1⁄4 oz Italicus aperitivo 
+    1⁄4 oz Simple syrup 
+    6 dashes Fennel bitters
+    3 dashes Celery bitters
+    1 pinch Celery salt
+    6 spritzes Absinthe 
+}
+
+turf-club{
+    2 oz Old Tom gin 
+    1 oz Sweet vermouth 
+    1 dash Orange bitters
+    1 dash Angostura bitters 
+}
+
+ginger-syrup{
+    1⁄3 cup Ginger, chopped and peeled
+    3⁄4 cup Sugar
+    3⁄4 cup Water
+}
+
+diy-southern-comfort{
+    1 bottle Bourbon (750 mL) 
+    4  Cloves
+    3  Cherries
+    2 peels Orange
+    1 wedge Lemon (1/4 of lemon)
+    1 stick Cinnamon
+    1⁄2  Vanilla bean (1/2-inch piece or 3/4 tsp vanilla extract)
+     Honey, to taste
+}
+
+zaatar-paloma{
+    1 1⁄2 oz Patrón silver tequila 
+    1 oz Fresh grapefruit juice
+    1 oz Za’atar simple syrup* 
+}
+
+flor-de-cana-agua-colada{
+    2 oz Flor de Caña 7 Year rum
+    1 oz Coconut water
+    3⁄4 oz Pineapple juice
+    1⁄2 oz Fresh orange juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup
+}
+
+flor-de-cana-macualita{
+    2 oz Flor de Caña 7 Year rum
+    1⁄8 barspoon Luxardo maraschino liqueur
+    1 oz Guava juice
+    1⁄2 oz Fresh lemon juice
+    1⁄8 oz Simple syrup
+    1 dash Orange bitters
+}
+
+flor-de-cana-old-fashioned{
+    2 oz Flor de Caña 12-year-old rum
+    1⁄2 oz Simple syrup
+    2 dashes Angostura bitters
+    2 dashes Orange bitters
+}
+
+fall-from-the-tree{
+    1 1⁄2 oz Laird’s applejack (or bourbon or scotch) 
+    1 oz Fresh apple juice
+    1⁄2 oz Cinnamon syrup*
+    1⁄4 oz Fresh lemon juice
+    1 dash The Bitter Truth aromatic bitters 
+}
+
+kitchen-sink{
+    12 oz Reposado tequila 
+    12 oz Apple brandy 
+    9 oz Fresh lemon juice
+    9 oz Honey syrup*
+    1  6-pack of lager
+}
+
+large-format-mezcal-negroni{
+    9 oz Mezcal 
+    9 oz Campari 
+    9 oz Sweet vermouth 
+}
+
+sea-of-confusion{
+    1 oz Hamilton Jamaican pot-still gold rum 
+    1⁄2 oz Clear Creek pear brandy 
+    1⁄4 oz Yellow Chartreuse 
+    1⁄4 oz Cappelletti amaro sfumato rabarbaro 
+    3⁄4 oz Passion fruit syrup
+    1⁄2 oz Fresh lemon juice
+    6 dashes Angostura bitters 
+     Lemon Hart 151 rum, to top 
+}
+
+pina-margarita{
+    1 wedge Lime
+    1 handful Cilantro
+    2 oz Grilled-pineapple-infused Sauza Blue silver tequila* 
+    1 oz Pineapple juice
+    1⁄2 oz Simple syrup 
+}
+
+hyde-and-oakes{
+    1 1⁄2 oz Lustau brandy 
+    1⁄2 oz Fino sherry
+    3⁄4 oz Charred pineapple syrup*
+    3⁄4 oz Fresh lemon juice
+    1  Egg white
+}
+
+eastern-sol{
+    1 1⁄2 oz Del Maguey Vida mezcal 
+    1 oz Grilled pineapple purée*
+    3⁄4 oz Passion fruit purée
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Grated ginger
+}
+
+grilled-pineapple-mojito{
+    1⁄2 oz Fresh lime juice
+    3⁄4 oz Agave nectar
+    1 sprig Mint
+    2 oz Pineapple juice
+    2 oz Brugal Especial extra dry rum 
+    1⁄4 cup Grilled pineapple chunks*
+}
+
+gentleman-jack-sour{
+    1 1⁄2 oz Gentleman Jack Tennessee whiskey
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Simple syrup
+    1 dash Angostura bitters
+}
+
+appleton-estate-montego-bay-sunset{
+    2 oz Appleton Estate 12 Year Rare Blend rum
+    3⁄4 oz Manzanilla sherry
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Ginger simple syrup
+}
+
+appleton-estate-rum-and-dumber-wrayquiri{
+    1 1⁄2 oz Wray & Nephew overproof rum
+    1 oz Appleton Estate Signature Blend rum
+    1 oz Fresh lime juice
+    1⁄2 oz  Simple syrup
+}
+
+appleton-estate-what-season-is-it{
+    1 1⁄2 oz  Appleton Estate Reserve Blend rum
+    3⁄4 oz Stone pine liqueur
+    3⁄4 oz Fresh lemon juice
+    3⁄4 oz Egg white
+    1⁄2 oz Elderflower liqueur
+    1⁄2 oz  Simple syrup
+    1⁄4 oz Green Chartreuse
+}
+
+appleton-estate-all-fired-up{
+    2 oz Appleton Estate 12 Year rum
+    3⁄4 oz Amaro Nonino
+    1⁄2 oz Simple syrup
+    3 dashes Walnut bitters
+}
+
+gentleman-jack-the-pitchford-sour{
+    2 oz Gentleman Jack whiskey
+    3⁄4 oz Candied pecan syrup*
+    3⁄4 oz Fresh lemon juice 
+    1 1⁄2 oz Vermouth and fresh cherry reduction**
+    1 oz Egg white 
+}
+
+gentleman-jack-rickhouse-tropic{
+    1 1⁄2 oz Gentleman Jack whiskey
+    1 oz Orgeat Syrup
+    3⁄4 oz Lemon juice
+    3⁄4 oz Pineapple juice
+    1⁄2 oz Passion fruit purée
+    1⁄4 oz Amaro Montenegro
+    1⁄2 oz Egg white (optional)
+}
+
+gentleman-jack-monarch-millionaire{
+    2 oz Gentleman Jack whiskey
+    1⁄2 oz Grand Marnier orange liqueur
+    1⁄2 oz Grenadine 
+    1⁄2 oz Lemon juice
+    1⁄4 oz Salted Peychaud's bitters*
+    1 barspoon Tangerine Agrumato olive oil
+    3⁄4 oz Egg white (optional)
+}
+
+gentleman-jack-happy-days-are-here-again{
+    1 1⁄2 oz Gentleman Jack whiskey 
+    3⁄4 oz Banana liqueur 
+    1⁄2 oz Fresh lime juice 
+    1⁄2 oz Fresh grapefruit juice
+    1⁄2 oz Cinnamon demerara syrup 
+    1 barspoon Ricard Pastis liqueur
+    1⁄2 oz Egg white
+}
+
+gentleman-jack-the-juliet{
+    2 oz Gentleman Jack whiskey
+    1 oz Lemon juice
+    3⁄4 oz *Pecan maple syrup
+    1⁄2 oz Mathilde Peche peach liqueur
+    1 oz Egg white
+}
+
+my-thai{
+    1  Thai chile pepper
+    3⁄4 oz Grand Marnier 
+    2 oz Banks 5-Island rum 
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Fresh pineapple juice
+    1⁄2 oz Thai coconut milk
+}
+
+absolut-cosmopolitan{
+    1 1⁄2 oz Absolut Citron vodka 
+    2⁄3 oz Cranberry juice
+    1⁄2 oz Triple sec liqueur
+    1⁄3 oz Fresh lime juice
+}
+
+absolut-lime-drop{
+    1 oz Absolut Lime vodka 
+    1 oz Fresh lime juice
+    1⁄2 oz  Simple syrup
+}
+
+absolut-greyhound{
+    2 oz Absolut Grapefruit vodka 
+    4 oz Grapefruit juice
+}
+
+absolut-moscow-mule{
+    1 2⁄3 oz Absolut vodka 
+    3⁄4 oz Fresh lime juice
+     Ginger beer, to top
+}
+
+absolut-bloody-mary{
+    1 1⁄2 oz Absolut vodka 
+    4 oz Tomato juice
+    1⁄4 oz Worcestershire sauce
+    1⁄4 oz Fresh lemon juice
+    2 dashes Hot sauce
+    1 tsp Horseradish
+    1 pinch Ground black pepper
+    1 pinch Salt
+}
+
+bentons-old-fashioned{
+    2 oz Fat-washed Four Roses bourbon* 
+    1⁄4 oz Grade B maple syrup
+    2 dashes Angostura bitters 
+}
+
+mai-tai{
+    1 oz Coruba dark Jamaican rum 
+    1 oz Rhum Clément V.S.O.P. Martinique rhum agricole vieux 
+    1⁄2 oz Orange curaçao
+    1⁄2 oz Latitude 29 Formula orgeat 
+    1 oz Fresh lime juice (keep shell)
+    1⁄4 oz Simple syrup (to taste) 
+}
+
+simple-syrup{
+    1⁄2 cup Granulated sugar
+    1⁄2 cup Water
+}
+
+appleton-estate-road-to-kingston{
+    1 1⁄2 oz Appleton Estate Reserve Blend rum
+    1⁄2 oz Black-pepper-spiced Wray & Nephew rum*
+    3⁄4 oz Blanc vermouth
+    1⁄4 oz Gentian liqueur
+    2 dashes Orange bitters
+}
+
+appleton-estate-drop-seed{
+    2 oz Appleton Estate Rare Blend 12 Year rum
+    1 barspoon Allspice liqueur
+    1⁄4 oz Averna amaro
+}
+
+appleton-estate-accd{
+    1 oz Appleton Estate 12 Year Rare Blend rum
+    3⁄4 oz Campari
+    1⁄2 oz Coconut water
+    1⁄4 oz Demerara syrup
+}
+
+appleton-estate-montego-star{
+    1 1⁄2 oz Appleton Estate Reserve Blend
+    1 dropper Bittermans Hellfire bitters
+    1 barspoon coconut oil
+    1⁄3 oz Cinnamon syrup
+    1⁄2 oz Carrot juice
+    3⁄4 oz Pineapple juice
+    3⁄4 oz Lemon juice
+}
+
+appleton-estate-lost-lake{
+    2 oz Appleton Estate Signature Blend rum
+    3⁄4 oz Passion fruit syrup
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Pineapple juice
+    1⁄4 oz Campari
+    1⁄4 oz Maraschino liqueur 
+}
+
+mutual-friend{
+    1 1⁄2 oz Plantation Barbados five-year-old rum 
+    1⁄2 oz Ron Zacapa 23-year-old rum 
+    1⁄2 oz Galliano ristretto espresso liqueur 
+    1 1⁄2 oz Fresh pineapple juice
+    1⁄2 oz Fresh lime juice
+    1⁄4 oz Demerara simple syrup (2 parts sugar to 1 part water) 
+    2 dashes Angostura bitters 
+}
+
+bacardl-cuatro-smash{
+    1 1⁄2 oz BACARDĺ Añejo Cuatro rum
+    1 oz St-Germain elderflower liqueur
+    1 oz Ruby red grapefruit juice
+     Tonic water, to top
+}
+
+bacardi-cuatro-mismo{
+    2 oz BACARDĺ Añejo Cuatro rum 
+    4 oz Club soda
+}
+
+el-volcan{
+    1 1⁄2 oz Ají-amarillo-infused gin*
+    1⁄2 oz Mezcal 
+    1⁄2 oz Aperol 
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Agave syrup
+}
+
+bacardi-el-presidente-no-4{
+    2 oz BACARDĺ Añejo Cuatro rum 
+    1 oz Martini & Rossi rosso vermouth
+    1⁄2 oz Dry curaçao
+    2 dashes Angostura bitters
+}
+
+naked-grouse-seeking-the-rose{
+    2 oz Naked Grouse scotch whisky
+    3⁄4 oz Sweet oloroso cream sherry
+    1⁄4 oz Letherbee fernet
+    1⁄4 oz Creme de rosé liqueur
+    1 oz Pistachio orgeat*
+    1 oz Topo Chico sparkling water
+    1⁄2 oz Bergamot juice
+}
+
+naked-grouse-amorous-men-are-gullible{
+    2 oz Shiitake-infused Naked Grouse scotch whisky*
+    1⁄4 oz Yellow Chartreuse
+    1 oz Egg white
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Dashi syrup**
+    3 dashes Celery bitters
+    2 dashes The Bitter Truth aromatic bitters
+}
+
+hennessy-black-cherry{
+    2 oz Hennessy Black cognac
+    1⁄4 oz Maraschino cherry liqueur
+}
+
+brugal-1888-summer-serve{
+    2 oz 1888 Brugal rum 
+    1  Coconut water ice ball
+}
+
+hipster{
+    1 oz Caffo Mezzodi L’Aperitivo Italiano (can substitute Aperol liqueur) 
+    1 oz Orangecello
+    1 oz Club soda
+    3 dashes Regans’ Orange Bitters No. 6 
+    1 dash Salt
+    3 oz Crooked Run Heart and Soul IPA 
+}
+
+old-pal{
+    1 oz Rye whiskey 
+    1 oz Dry vermouth 
+    1 oz Campari 
+}
+
+lazy-sunday{
+    1 1⁄2 oz Tequila 
+    1 1⁄2 oz Fresh grapefruit juice
+    1 oz Cinnamon syrup*
+    1⁄4 oz Turmeric tea**
+     Soda water, to top 
+}
+
+gangsters-paradise{
+    1 1⁄2 oz Mount Gay Black Barrel rum 
+    1⁄2 oz Chairman’s Reserve Spiced Original rum 
+    1 oz Fresh pineapple juice
+    3⁄4 oz Passion fruit juice
+    3⁄4 oz Heavy cream 
+    1⁄2 oz Cinnamon syrup*
+    1 drop Turmeric oil (1 part turmeric oil to 1 part water)
+}
+
+delhi-cooler{
+    2 oz London dry gin 
+    3⁄4 oz Curry nectar*
+    3⁄4 oz Fresh pineapple juice
+    3⁄4 oz Fresh lime juice
+}
+
+a-boy-named-sue{
+    1 oz Johnnie Walker Black Label blended scotch 
+    1⁄2 oz The Famous Grouse The Black Grouse blended scotch 
+    3⁄4 oz Turmeric simple syrup*
+    1  Egg white
+    1⁄2 oz Fresh lemon juice
+    1⁄4 oz Heavy cream 
+    3  Soda water, to top 
+     Sumar powder
+}
+
+cry-baby{
+    1 oz Powers Irish whiskey 
+    1⁄2 oz Wyoming Whiskey bourbon 
+    1⁄2 oz Lemorton Pommeau de Normandie Calvados 
+    1⁄4 oz DOM Bénédictine  
+    1⁄2 oz Cane syrup
+    1 dash Cecil & Merl turmeric bitters 
+}
+
+provence-cooler{
+    3⁄4 oz Aylesbury Duck vodka 
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Simple syrup 
+    2  Basil leaves
+    1  Blackberry
+    3 oz My Essential Wine French rosé 
+}
+
+spring-fever{
+    3 oz Sassetti sparkling rosé wine 
+    3⁄4 oz Nikolaihof elderflower syrup
+    3⁄4 oz Fresh lemon juice
+    6  Medium-size strawberries, quartered
+    4 dashes Rhubarb bitters
+}
+
+sparkling-rose{
+    1 1⁄2 oz Milagro silver tequila 
+    3⁄4 oz Watermelon juice
+    1⁄2 oz Fresh lemon juice
+    1⁄4 oz Simple syrup 
+    2 oz Chandon brut rosé sparkling wine
+}
+
+rose-all-day{
+    2 oz Rosé wine 
+    1 oz White rum 
+    1⁄2 oz Rosé liqueur
+    1⁄2 oz Orange liqueur
+    1⁄2 oz Fresh lemon juice
+    1⁄4 oz Pama pomegranate liqueur 
+    3 dashes Rhubarb bitters
+     Seltzer, to top
+}
+
+slane-breakfast-on-the-boyne{
+    1 1⁄2 oz Slane Irish whiskey
+    1⁄4 oz Coffee liqueur
+    1⁄2 oz Fresh lemon juice
+    1⁄4 oz Allspice dram
+    3⁄4 oz Sloe gin 
+}
+
+slane-geary-blvd{
+    1 1⁄2 oz Slane Irish whiskey
+    1 oz Lime zest
+    1 tsp Pickled ginger
+    1  Shiso leaf 
+    3⁄4 oz Sake, chilled
+    3⁄4 oz Coconut water
+}
+
+slane-drams-of-the-kilburn-high{
+    1 1⁄2 oz Slane Irish whiskey
+    3⁄4 oz Fino sherry
+    1⁄4 oz Banana liqueur
+    1⁄4 oz Amaro CioCiaro 
+    2 dashes Angostura bitters
+}
+
+slane-dear-kota{
+    6 oz Slane Irish whiskey
+    3 oz Oloroso sherry
+    2 oz Averna amaro
+    1 oz Vanilla-demerara orgeat*
+    2 oz Filtered water
+}
+
+slane-dark-side-of-the-moon{
+    2 oz Slane Irish whiskey
+    1⁄2 oz Cinnamon clove demerara syrup*
+    1 1⁄2 oz Cold-brew coffee
+     Citrus whipped cream, to top**
+}
+
+slane-festival-at-the-gates{
+    2 oz Slane Irish whiskey
+    3⁄4 oz Byrrh quinquina 
+    1⁄2 oz Suze
+    1 dash Angostura bitters
+}
+
+slane-irish-whiskey-smash{
+    2 oz Slane Irish whiskey
+    1 half Lemon (wedged)
+    1 oz Simple syrup
+    4  Mint leaves
+}
+
+slane-lions-tale{
+    1 1⁄2 oz Slane Irish whiskey
+    1⁄2 oz Bénédictine
+    3⁄4 oz Génépy liqueur
+    3⁄4 oz Blue Lion chicorée liqueur
+    2 dashes Orinoco aromatic bitters
+    2 dashes Curry leaf tincture
+}
+
+slane-whiskey-in-a-castle{
+    1 1⁄2 oz Slane Irish whiskey
+    1⁄2 oz Oloroso sherry
+    1⁄2 oz Bourbon
+    1⁄2 oz Plum-vanilla syrup*
+    3 dashes Angostura bitters
+}
+
+sunday-flip{
+    2 oz Carpano bianco vermouth  
+    1⁄2 oz Simple syrup 
+    1⁄4 oz Strawberry vinegar 
+    1  Lemon peel
+    1  Whole egg
+}
+
+frozen-absinthe-frappe{
+    1 1⁄2 oz Absinthe 
+    1 1⁄2 oz Simple syrup 
+    3 barspoons Mint extract
+}
+
+schnapsicle{
+    3 1⁄2 oz Dry white wine (such as grüner veltliner)
+    36 oz Apricot puree
+    7 3⁄4 oz Granulated sugar*
+    4 oz Glucose
+    1 oz Ice cream stabilizer
+    28 oz Water
+    5 oz Trimbach mirabelle plum schnapps
+}
+
+crush-crush{
+    1 1⁄2 oz Don Ciccio & Figli mandarinetto liqueur 
+    1 oz Cotton & Reed white rum 
+    1⁄2 oz John D. Taylor’s Velvet falernum
+    1 1⁄2 oz Orange juice
+    3⁄4 oz Pineapple juice
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Simple syrup 
+}
+
+frozen-negroni{
+    2 oz Caorunn Scottish gin 
+    3⁄4 oz Aperol 
+    3⁄4 oz Carpano Antica vermouth 
+    3 drops Bittermens hopped grapefruit bitters 
+    1 pinch Salt
+}
+
+bombilla{
+    1 1⁄2 oz Old Forester bourbon  
+    1⁄2 oz Bénédictine  
+    3⁄4 oz Stone-ground yerba mate syrup*
+    3⁄4 oz Fresh lemon juice
+    1 sprig Mint
+}
+
+evergreen-terrace{
+    1 1⁄2 oz Tequila 
+    1⁄2 oz Dolin Génépy de Alpes
+    1 oz Yerba mate simple syrup*
+    1⁄2 oz Fresh lemon juice
+    2 dashes Orange bitters
+    1 dash Bittercube Corazón bitters 
+}
+
+summerthyme-screwdriver{
+    5  Orange wheels (sliced thickly)
+    2  Lemons
+    11 oz Vodka 
+    5 1⁄2 oz Aperol 
+    17 oz Fresh orange juice
+     Club soda, to top
+}
+
+sky-juice{
+    4 cup London dry gin 
+    4 cup Coconut water
+    14 oz Condensed milk
+    1⁄3  Fresh nutmeg pod
+}
+
+nina-pina-santa-monica{
+    2 oz Bruxo No. 1 espadín mezcal 
+    1 oz Pineapple juice
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Honey syrup*
+}
+
+sparkling-watermelon-punch{
+    1  Mini watermelon
+    6  Mint leaves
+    4 oz Vodka 
+    2 oz Fresh lime juice
+    1 oz Simple syrup 
+     Sparkling wine, to top
+}
+
+bicicletta{
+    3 oz Dry white wine (like pinot grigio or sauvignon blanc)
+    2 oz Campari 
+     Soda water, to top 
+}
+
+toby-cecchinis-generous-cosmopolitan{
+    2 oz Absolut Citron vodka 
+    1 oz Cointreau  
+    1 oz Ocean Spray cranberry juice cocktail 
+    1 oz Fresh lime juice
+}
+
+appleton-black-river-swizzle{
+    1 oz Appleton Estate Signature Blend rum
+    1 oz Appleton Estate Reserve Blend rum
+    3⁄4 oz Sorrel syrup* 
+    3⁄4 oz Fresh lime juice
+    1 dash Angostura bitters
+}
+
+appleton-estate-lizzys-fizzy{
+    1 1⁄2 oz Appleton Estate Reserve Blend rum
+    1⁄2 oz Wray & Nephew overproof rum
+    1⁄2 oz Honey syrup
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Coconut cream
+}
+
+appleton-estate-nassau-valley{
+    1 oz Appleton Estate Signature Blend rum
+    1 oz Appleton Estate Reserve Blend rum
+    1⁄2 oz Fino sherry
+    1⁄2 oz Amontillado sherry
+    1⁄2 oz Cynar
+}
+
+appleton-estate-rum-diary{
+    3  3 Muddled pineapple chunks
+    1 oz Appleton Estate Reserve Blend rum
+    3⁄4 oz Cinzano 1757 vermouth
+    3⁄4 oz Passion fruit liqueur
+    3⁄4 oz Agave nectar
+}
+
+appleton-estate-mandeville-session{
+    1 1⁄2 oz Appleton Estate Reserve Blend rum
+    1⁄2 oz Campari
+    1 oz Grapefruit juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Demerara syrup
+     Prosecco, to top 
+}
+
+appleton-estate-from-the-cradle-to-the-grave{
+    1 1⁄2 oz Appleton Estate Rare Blend 12-year-old rum
+    1⁄2 oz Cynar
+    1⁄2 oz Oloroso sherry
+    1⁄4 oz Allspice/pimento dram
+    2 drops Saline solution (or 1 pinch of salt)
+}
+
+azunia-cantarito-de-amatitan{
+    2 oz Azuñia blanco or reposado organic tequila
+    1 oz Azuñia organic agave nectar
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Fresh lime juice
+    1⁄4 oz Grapefruit juice
+    1⁄4 oz Orange juice
+     Dash of sea salt
+     Grapefruit soda
+}
+
+azunia-cucumber-cilantro-margarita{
+    2 oz Azuñia organic blanco tequila
+    1 oz Cucumber simple syrup*
+    1 oz Lime juice
+    5  Fresh cilantro leaves
+}
+
+azunia-islay-time-in-jalisco{
+    2 oz Azuñia Añejo Tequila
+    1 barspoon Ardbeg Scotch
+    1⁄2 oz Amaro Montenegro
+    1⁄2 oz Carpano Antica formula vermouth
+    2 dashes AZ Bitters Lab Sunshine bitters
+}
+
+azunia-white-hot-american-summer{
+    1 1⁄2 oz Azuñia Añejo Tequila
+    1⁄2 oz Laphroaig scotch
+    3⁄4 oz Reál peach puree
+    3⁄4 oz Fresh lemon juice
+}
+
+azunia-que-bueno{
+    2 oz Azuñia organic blanco tequila
+    1⁄2 oz Apricot syrup
+    1⁄2 oz White port
+    1⁄2 oz Fresh lemon juice
+     Tonic water
+}
+
+azunia-kiwi-apple-reposado-pop{
+    1 1⁄4 cup Real Kiwi syrup
+    1 1⁄4 cup Real Apple syrup
+    1 cup Water
+    1 tbsp Lemon juice
+    1⁄4 cup Azuñia reposado organic tequila
+}
+
+azunia-summer-tippling{
+    1  Fresh cucumber slice
+    1 1⁄2 oz Azuñia organic blanco or reposado tequila
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Reál strawberry puree
+    4  Mint leaves
+    1 oz Ginger beer
+}
+
+azunia-oranica-skinny-margarita{
+    1 1⁄2 oz Azuñia blanco organic tequila
+    3⁄4 oz Azuñia 100% blue agave syrup
+    1 oz Fresh lime juice
+     Splash of water
+}
+
+applejack-rabbit{
+    2 oz Laird’s bonded apple brandy 
+    3⁄4 oz Fresh lemon juice
+    3⁄4 oz Orange juice
+    1⁄2 oz Grade B maple syrup
+}
+
+reverse-martini-bartenders-special{
+    1 3⁄4 oz Dolin Blanc Vermouth de Chambéry 
+    1 oz Spirit Works vodka 
+    1 barspoon Luxardo maraschino liqueur 
+}
+
+summer-days-city-nights{
+    2 oz Dolin Blanc Vermouth de Chambéry 
+    1 oz Tito’s Handmade vodka 
+    1 tsp Green Chartreuse 
+    2 dashes Fee Brothers West Indian orange bitters 
+    1 dash Scrappy’s lavender bitters 
+}
+
+summer-lips{
+    1 1⁄4 oz Lillet blanc apéritif 
+    1 oz Absolut Elyx vodka 
+    1⁄2 oz Dry curaçao
+    1⁄4 oz Dolin Dry Vermouth de Chambéry 
+    1⁄4 oz Aquavit 
+    1⁄4 oz Chardonnay
+    1 barspoon Green Chartreuse 
+    1 dash Orange bitters
+    3  Frozen honeydew melon balls
+}
+
+better-half{
+    1 1⁄2 oz Amontillado sherry 
+    1 oz Vodka 
+    1⁄2 oz Chablis
+    1 barspoon Grand Marnier 
+}
+
+sandeman-cape-of-good-hope{
+    1 oz Sandeman 20-year-old tawny porto
+    1 oz Caperitif vermouth
+    1 oz Bluecoat barrel-finished gin
+     FEW Anguish & Regret liqueur, to spray with atomizer
+}
+
+sorrentino{
+    1 oz Sweet vermouth 
+    1 oz Limoncello
+    3⁄4 oz Campari 
+     Soda water, to top 
+}
+
+mayan-michelada{
+    1⁄2 oz Pelotón de la Muerte mezcal joven 
+    5 dashes Cholula hot sauce 
+    5 dashes Maggi seasoning sauce  
+    3 dashes Worcestershire sauce
+    1⁄2 oz Fresh lime juice
+    1⁄4 oz Agave syrup
+    1 bottle Modelo Especial lager (or another Mexican lager) 
+}
+
+stunner{
+    1⁄2 oz Glendalough double-barrel Irish whiskey 
+    1⁄2 oz Heering cherry liqueur 
+    1⁄2 oz Demerara syrup
+    1⁄2 oz Fresh lemon juice
+    1 dash Bittermens Burlesque bitters 
+    1 1⁄2 oz IPA (such as DryHop Shark Meets Hipster IPA) 
+     Laphroaig single-malt scotch, to mist 
+}
+
+radler-paloma{
+    2 oz Tequila 
+    3⁄4 oz Fresh grapefruit juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup 
+     Stiegl radler beer, to top 
+}
+
+summer-ale-spritz{
+    1 bottle Sam Adams summer ale 
+    1 oz Rosemary syrup*
+    1 oz Fresh lemon juice
+    3⁄4 oz Aperol 
+}
+
+here-comes-the-sun{
+    1 1⁄2 oz Rye whiskey 
+    3⁄4 oz Ginger syrup*
+    1⁄2 oz Fresh lemon juice
+    1 oz Wheat beer (such as Port City Optimal wit) 
+}
+
+green-eyes{
+    2 oz Sesame-infused vodka** 
+    3⁄4 oz Cucumber ginger syrup**
+    1⁄2 oz Fresh lime juice
+    1 dash Salt (or 2 squirts of saline solution)
+}
+
+reyka-afram{
+    2 oz Reyka vodka
+    1 1⁄2 oz Coconut milk 
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Turbinado simple syrup
+     Soda water, to top 
+}
+
+bourbon-strawberry-iced-tea{
+    2  Large fresh strawberries (sliced into quarters)
+    1 oz Fresh lemon juice
+    3⁄4 oz Rich simple syrup (2 parts sugar, 1 part water)
+    2 oz Bourbon 
+     Unsweetened iced tea, to top
+}
+
+velvet-sea{
+    1 1⁄2 oz Sailor Jerry spiced rum 
+    3⁄4 oz John D. Taylor Velvet falernum
+    1⁄4 oz Small Hand Foods pineapple gum syrup 
+    1⁄2  Lime
+    5 dashes Angostura bitters 
+}
+
+watermelon-wine-spritzer{
+    2 cup Watermelon, cubed
+    1 tbsp Agave nectar
+    2 cup White wine
+    2 cup Club soda
+}
+
+oaxacan-old-fashioned{
+    1 1⁄2 oz Tequila 
+    1⁄2 oz Del Maguey San Luis Del Rio mezcal 
+    1 barspoon Agave nectar
+    2 dashes Angostura bitters 
+}
+
+romulan-ale-fizz{
+    1 oz Navy-strength gin 
+    1 1⁄2 oz Blue curaçao
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Simple syrup 
+    1  Egg white
+    2 oz Tonic water
+    4 drops Orange blossom water
+}
+
+kanar-sazerac{
+    1 oz XO cognac 
+    1 oz Fernet-Branca liqueur 
+    1⁄2 oz Simple syrup 
+    4 dashes Angostura bitters 
+    4 dashes Orange bitters
+}
+
+irish-raktajino{
+    1 1⁄2 oz Irish whiskey 
+    1⁄2 oz Simple syrup 
+    2 oz Espresso (or cold-brew coffee)
+    2 oz Whole milk
+}
+
+plomeek-tea{
+    1 tbsp Sencha tea
+    1 tbsp Licorice root tea
+    1 tbsp Hibiscus tea
+    6 oz Boiling water
+    3 oz Verjus blanc
+}
+
+dale-degroff-bourbon-old-fashioned{
+    4 dashes Angostura bitters
+    1 tsp Sugar 
+    1  Orange wheel
+    1  Maraschino cherry
+    1 splash Club soda
+    2 oz Bourbon 
+}
+
+jacques-bezuidenhout-negroni{
+    1 oz Campari 
+    1 oz Gin (Beefeater or Tanqueray) 
+    1 oz Sweet vermouth (Martini & Rossi Rosso or Cinzano Rosso)
+}
+
+erik-adkins-sazerac{
+     Absinthe 
+    1  Sugar cube
+    3 dashes Peychaud's bitters
+    2 dashes Angostura bitters 
+    2 oz Russell's Reserve rye whiskey 
+}
+
+negroni{
+    1 oz Gin 
+    1 oz Campari 
+    1 oz Sweet vermouth 
+}
+
+portrait-of-marevna{
+    1 1⁄2 oz Siete Leguas reposado tequila 
+    3⁄4 oz Bodegas Hidalgo Manzanilla sherry 
+    1⁄2 oz Cappelletti sfumato rabarbaro amaro
+    1⁄2 oz Capertif apéritif 
+    1⁄4 oz Radish-infused simple syrup*
+}
+
+spicy-mint-avocado-margarita{
+    1 slice Avocado (approximately 2 tbsp)
+    3 slices Jalapeño pepper (seeds removed)
+    4  Fresh mint leaves
+    1 oz Fresh lime juice
+    2 oz Blanco tequila 
+    1 oz Orange liqueur
+    1⁄2 oz Simple syrup 
+    1 pinch Salt
+}
+
+maitai{
+    3⁄4 oz Fresh lime juice
+    1⁄4 oz Rock candy syrup (2 parts sugar, 1 part water)
+    1⁄4 oz Orgeat
+    1⁄2 oz Orange curaçao
+    2 oz Premium aged rum (such as Appleton Estate 12-year-old or El Dorado 12- year-old) 
+}
+
+rum-old-fashioned{
+    2 oz Dark rum 
+    1 barspoon Demerara syrup
+    1 barspoon Allspice dram
+    2 dashes Orange bitters
+    2 dashes Angostura bitters 
+}
+
+appleton-estate-daiquiri{
+    2 oz Appleton Estate Reserve rum
+    3⁄4 oz Simple syrup
+    1 oz Fresh lime juice
+}
+
+estate-old-fashioned{
+    2 oz Appleton Estate Reserve rum
+    1  Sugar cube
+    1 dash Orange bitters
+    2 dashes Aromatic bitters
+    1 splash Soda water
+}
+
+anti-inflammatory{
+    1 1⁄2 oz Cognac 
+    1 1⁄2 oz Turmeric-infused coconut milk*
+    1⁄2 oz Honey syrup
+    5 drops Chili oil
+}
+
+appleton-jungle-bird{
+    1 1⁄2 oz Appleton Estate Reserve rum
+    3⁄4 oz Campari liqueur
+    1 1⁄2 oz Pineapple juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Simple syrup
+}
+
+kylo-rye{
+    2 oz Crater Lake rye whiskey 
+    1⁄4 oz Fresh lime juice
+     Club soda, to top
+}
+
+qui-gon-gin-singer{
+    2 oz Boylan Heritage tonic water
+    2 oz Old Fourth Distillery gin 
+    6 oz Banjo Sweetly Tuned cold-brew coffee 
+}
+
+dark-side{
+    1 1⁄2 oz Maker’s Mark 46 whiskey 
+    1⁄2 oz Black sesame orgeat*
+    1  Lime, juiced
+    13 dashes Angostura bitters 
+    1 pinch Activated charcoal
+}
+
+darth-mauled-pomegranate-cider{
+    1 cup Pomegranate juice
+    1⁄2 cup Apple cider
+    2 tsp Mulling spice, in a mulling ball or tea bag (such as Urban Accents mulling spice blend) 
+    1 shot Dark rum or whiskey
+}
+
+azunia-raise-to-the-fraise{
+    2 oz Azuñia añejo tequila 
+    3⁄4 oz Lillet rouge apéritif
+    1⁄2 oz Mesquite honey syrup (2:1 honey to water)
+    3⁄4 oz Fresh lemon juice
+    1  Strawberry, muddled
+    1 dash Angostura bitters
+}
+
+azunia-paloma{
+    2 oz Azuñia organic blanco or reposado tequila
+    3⁄4 oz Giffard pamplemousse liqueur
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Simple syrup (1:1 sugar and water)
+     Club soda, to top
+    1 dash Sea salt
+}
+
+azunia-sonoran-sunrise{
+    1 1⁄2 oz Azuñia reposado tequila
+    1⁄2 oz Orange curaçao (such as Pierre Ferrand dry curaçao)
+    3⁄4 oz Yuzu juice blend (1:1 yuzu and fresh lemon juice)
+    1⁄2 oz Prickly pear syrup (1:1 Perfect Purée prickly pear purée and sugar)
+    1 slice Jalapeño
+}
+
+azunia-amatitan-old-fashioned{
+    1 1⁄2 oz Azuñia añejo tequila 
+    1⁄2 oz Diplomático Reserva Exclusiva rum
+    2 dashes Angostura bitters
+    1  Sugar cube
+}
+
+azunia-vera-blanco{
+    2 oz Azuñia blanco tequila 
+    1⁄2 oz Chareau aloe vera liqueur
+    1⁄2 oz Orange blossom honey
+    1⁄2 oz Fresh cucumber juice
+    3⁄4 oz Fresh lime juice
+}
+
+azunia-cervesa-fresa{
+    1 oz Azuñia blanco tequila 
+    1⁄2 oz Reál strawberry puree
+    1⁄2 oz Fresh lemon juice
+    2 dashes Angostura bitters
+    1 oz Light Mexican beer
+}
+
+azunia-happenstance{
+    2 oz Azuñia blanco tequila 
+    1⁄2 oz Giffard apricot brandy
+    3⁄4 oz Green tea syrup (1:1)
+    1 oz Yuzu-lemon juice blend (1:1 yuzu and fresh lemon juice)
+    2 dashes Orange bitters
+}
+
+azunia-rosalees-downfall{
+    2 oz Sour mix
+    1⁄2 oz Rose-petal-infused mango liqueur*
+    1 1⁄2 oz Azuñia blanco tequila 
+}
+
+yoda-sour{
+     Absinthe, to coat 
+    2 oz Pisco 
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Simple syrup 
+    1  Large egg white
+    1 tsp Matcha
+}
+
+daiquiri-2{
+    2 oz Dark rum (Appleton Estate Reserve) 
+    1 oz Fresh lime juice
+    1 oz Simple syrup 
+}
+
+kamikaze-3{
+    1 1⁄2 oz Vodka 
+    3⁄4 oz Triple sec
+    3⁄4 oz Lime juice
+}
+
+margarita-dale-degroff-margarita{
+    3⁄4 oz Fresh squeezed lime juice
+    1 oz Cointreau, triple sec or another orange liqueur 
+    1 1⁄2 oz Blanco tequila
+     Kosher salt (optional)
+}
+
+audrey-saunders-ginger-beer{
+    2 tbsp Finely grated fresh ginger (use a food processor)
+    1 cup Water
+    1⁄2 tsp Fresh lime juice
+    1 tsp Light brown sugar
+}
+
+cider-house-rules-2{
+    2 oz Buffalo Trace bourbon 
+    5 oz Strawberry cider (from CiderBoys, Kopparberg or another cidery)
+    1⁄2 oz Honey syrup (equal parts honey and water)
+    1⁄4 oz Fresh lemon juice
+    1 dash Bittercube Blackstrap bitters 
+}
+
+bourbon-and-berries{
+    2 oz Bourbon 
+    1 barspoon Strawberry-vanilla syrup*
+    3 dashes Angostura bitters 
+}
+
+pumpkin-spice-old-fashioned{
+    1⁄2 oz Pumpkin syrup*
+    2 dashes Orange bitters
+    1  Orange slice
+    2 oz Breckenridge bourbon 
+    1 dash Club soda
+}
+
+beggars-banquet-2{
+    2 oz Bourbon 
+    3⁄4 oz Maple syrup
+    1⁄2 oz Fresh lemon juice
+    5 oz Lager, chilled
+}
+
+brown-butter-old-fashioned{
+    4 dashes Angostura bitters 
+    1⁄4 oz Brown sugar syrup (equal parts brown sugar to water)
+    1  Orange peel
+    1  Luxardo maraschino cherry 
+    2 oz Brown-butter-washed bourbon*
+}
+
+bacardi-greta-garbo{
+    2 parts BACARDÍ Carta Blanca rum
+    3⁄4 parts Cointreau liqueur
+    1⁄4 parts Grenadine liqueur
+    1⁄2 parts Fresh lime juice
+    2 dashes Absinthe, to rinse
+}
+
+bellevue-heights{
+    1 oz Letherbee gin 
+    1 oz Tio Pepe fino sherry 
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Pistachio white tea syrup*
+    1⁄2 oz Egg white
+    1 dash Greg Buttera's banana bitters
+}
+
+sparkling-rose-margarita{
+    10 oz Strawberry-basil-infused blanco tequila* 
+    5 oz Fresh lime juice
+    4 oz Agave syrup
+    1 bottle Sparkling rosé (750 mL)
+}
+
+negroni-sorbet{
+    1 oz Gin  
+    1 oz Campari liqueur 
+    1 oz Sweet vermouth 
+    2 cup Fresh squeezed ruby red grapefruit juice
+    1 cup Sugar
+    1 cup Water
+}
+
+bacardi-mary-pickford{
+    2 parts Bacardí Superior rum
+    3 chunks Fresh pineapple
+    1 parts Fresh pineapple juice
+    1⁄4 parts Pomegranate grenadine syrup
+    1⁄4 parts Maraschino liqueur 
+}
+
+h2o-highball{
+    6 oz Small-batch spring water (2:1 hydrogen to oxygen)
+     Sparkling water, to top
+    1 barspoon Distilled water
+}
+
+sotolero{
+    1 1⁄2 oz Por Siempre sotol
+    3⁄4 oz Lillet blanc apéritif 
+    3⁄4 oz Salers gentiane 
+    8 drops Orange bitters
+    1  Lemon peel, expressed
+}
+
+whiskey-sour-2{
+    2 oz Bourbon 
+    3⁄4 oz Fresh lemon juice
+    3⁄4 oz Simple syrup 
+    1⁄2  Egg white (optional)
+}
+
+izak{
+    1 1⁄2 oz Evan Williams White Label bourbon 
+    1⁄4 oz Cynar 70 amaro 
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Harissa syrup*
+    3⁄4 oz Fresh orange juice
+}
+
+cinnamon-french-toast{
+    4  Eggs
+    1 cup Heavy cream 
+    1 cup Coconut milk
+    1⁄2 tsp Vanilla extract
+    1 tbsp Ground cinnamon
+    1 tsp Nutmeg
+    1⁄2 tsp Allspice
+    1⁄2 tsp Ground clove
+    8 slices Cinnamon twist challah bread
+    4 tbsp Butter
+    1⁄2  Seasonal fruit
+     Powdered sugar, to top
+    1 cup Maple syrup
+    3⁄4 oz Dark aged rum 
+}
+
+easter-bunny-shot{
+    1  Hollow chocolate bunny
+    2  Fresh strawberries
+    1 1⁄2 oz Vanilla vodka 
+    1⁄2 oz Baileys Irish cream 
+    1⁄2  Heavy cream 
+    1⁄4 oz Simple syrup 
+}
+
+smugglers-cove-hurricane{
+    4 oz Black blended or black pot-still rum 
+    2 oz Passion fruit syrup
+    2 oz Fresh lemon juice
+}
+
+mollymock{
+    2 oz Bacardí black rum 
+    1⁄2 oz Bénédictine liqueur 
+    1 barspoon Amaro Montenegro 
+    1 oz Fresh lime juice
+    1⁄4 oz Simple syrup 
+}
+
+kon-tiki-grog{
+    2 oz Hamilton Reserve pot-still Jamaican black rum
+    1 oz Fresh pineapple juice
+    3⁄4 oz Fresh lemon juice
+    1⁄2 oz Small Hand Foods passion fruit syrup 
+    1 dash Angostura bitters 
+}
+
+charleston-breakfast-coffee{
+    2 oz High Wire New Southern Revival sorghum whiskey 
+    1⁄2 oz Demerara simple syrup 
+    8 oz Brewed dark-roast coﬀee 
+    1 cup Heavy cream 
+}
+
+gran-rosta-coffee{
+    1 oz Teeling single-grain Irish whiskey 
+    1⁄2 oz Demerara simple syrup 
+    4 oz Brewed coffee 
+     Fresh whipped cream
+}
+
+fort-defiance-irish-coffee{
+    1 1⁄2 oz Powers Irish whiskey 
+    1 oz Simple syrup 
+    1 shot Counter Culture espresso 
+    1 1⁄2 oz Heavy cream 
+}
+
+el-gobernador-vegan-pisco-sour{
+    1 1⁄2 oz El Gobernador pisco
+    1⁄2 oz Cinnamon liquor 
+    3⁄4 oz Fresh lemon juice
+    3⁄4 oz Simple syrup
+    1 oz Aquafaba (chickpea water)
+}
+
+el-gobernador-chilecano{
+    2 oz El Gobernador pisco
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Fresh pineapple juice
+    1⁄2 oz Ginger syrup 
+     Soda water, to top
+    1 pinch Paprika
+}
+
+el-gobernador-pisco-punch{
+    1 oz El Gobernador pisco
+    1 oz Dry white wine 
+    1⁄2 oz Fresh pineapple juice
+    1⁄2 oz Fresh lemon juice
+}
+
+thin-mint-julep{
+     8-10 Fresh mint leaves
+    1⁄4  Simple syrup 
+    1 1⁄2 oz Bourbon 
+    1⁄2 oz White crème de cacao
+}
+
+scotch-and-soda{
+    2 oz Scotch whisky 
+     Club soda, to top
+}
+
+la-negra-tiene-tumbao{
+    1 1⁄2 oz BACARDÍ Superior rum 
+    1⁄4 oz Fernet-Vallet liqueur 
+    2 oz Coco Lopez cream of coconut 
+    2 oz Pineapple juice
+    1 oz Coconut milk 
+}
+
+french-martini{
+    2 oz Vodka  
+    1 3⁄4 oz Pineapple juice
+    1⁄4 oz Crème de cassis liqueur
+}
+
+vesper{
+    3 oz Gin 
+    1 oz Vodka 
+    1⁄2 oz Lillet blanc apéritif 
+}
+
+road-to-kyushu{
+    1 1⁄2 oz Kikori Japanese whisky 
+    1⁄2 oz Galliano liqueur 
+    1⁄2 oz Averna Amaro 
+    2 dashes Barrel-aged bitters
+    1  Kumquat
+    2  Whole cloves
+}
+
+planters-punch{
+    3 oz Dark rum 
+    3⁄4 oz Fresh lime juice
+    1 oz Simple syrup 
+    1 barspoon Grenadine
+    3 dashes Angostura bitters 
+    1 splash Soda water
+}
+
+high-horse{
+    1 1⁄2 oz Aged rum 
+    1⁄2 oz Kirsch brandy
+    1⁄2 oz Cherry liqueur
+    1⁄2 oz Sweet vermouth 
+    2 dashes Angostura bitters 
+}
+
+pot-of-gold{
+    1 3⁄4 oz Irish whiskey 
+    1⁄4 oz Islay scotch (or some other peaty scotch) 
+    3⁄4 oz Fresh lemon juice
+    3⁄4 oz Ginger honey syrup*
+    1  Egg white
+}
+
+bacardi-superior-mai-tai{
+    3⁄4 oz Fresh lime juice
+    1⁄4 oz Rock candy syrup (2 parts sugar, 1 part water)
+    1⁄4 oz Orgeat
+    1⁄2 oz Orange curaçao
+    2 oz Premium aged rum (such as Appleton Estate 12-year-old or El Dorado 12- year-old) 
+}
+
+irish-coffee-2{
+    1 1⁄2 oz Irish whiskey 
+    2 tsp Brown sugar
+     Brewed coffee, hot
+}
+
+blood-and-sand{
+    3⁄4 oz Scotch 
+    3⁄4 oz Sweet vermouth 
+    3⁄4 oz Heering cherry liqueur 
+    3⁄4 oz Fresh orange juice
+}
+
+dark-n-stormy{
+    1 1⁄2 oz Gosling's Black Seal rum 
+     Stormy ginger beer, to top 
+}
+
+happy-pill{
+    1 oz Don Q Cristal rum 
+    1 oz Plantation dark rum 
+    1⁄2 oz Fresh lime juice
+    3⁄4 oz Grilled pineapple juice*
+    3⁄4 oz Fresh orange juice
+    1⁄2 oz Coconut cream
+    1 oz Kalani coconut liqueur
+}
+
+wine-brownies{
+    2  Eggs
+    3⁄4 cup Sugar
+    1 tsp Vanilla extract
+    1⁄2 cup Butter, melted 
+    2 tbsp Pinot noir wine 
+    3⁄4 cup Ghirardelli sweet ground cocoa  
+    2⁄3 cup Unbleached all-purpose flour 
+    1⁄4 tsp Baking powder 
+    1⁄4 tsp Salt
+    1⁄2 cup Walnuts, toasted and chopped
+    6 oz Chocolate glaze*
+}
+
+harvest-time{
+    3⁄4 oz BenRiach Curiositas peated 10-year-old scotch 
+    1⁄4 oz Campari liqueur 
+    1⁄2 oz Ginger syrup*
+    1⁄2 oz Yuzu or lemon juice
+    4 oz Warm apple cider
+}
+
+cold-brew-negroni{
+    1 oz Cold-brew-coffee-infused Campari liqueur*
+    1 oz Gin 
+    1 oz Sweet vermouth 
+}
+
+roman-holiday{
+    1 oz Amaro Meletti
+    1⁄4 oz Campari liqueur 
+    3⁄4 oz Pineapple juice
+    3⁄4 oz Lime juice
+    1 oz Cold-brew coffee
+    1⁄4 oz Demerara syrup
+    1 pinch Sea salt
+}
+
+italian-chocolate-martini{
+    1 oz Chilled espresso
+    1 1⁄2 oz Amaro Averna 
+    1⁄2 oz Kahlúa liqueur 
+}
+
+oaxacan-tail{
+    3⁄4 oz Mezcal 
+    1⁄4 oz Tapatio blanco tequila 
+    1 oz Foro amaro
+    2 oz Cold-brew coffee
+    15 drops Chocolate mole bitters
+}
+
+cafe-correcto-con-coco{
+    3⁄4 oz Plantation five-year-old rum 
+    3⁄4 oz Jameson Caskmates whiskey 
+    1 oz Brewed coffee 
+    1 oz Almond milk
+}
+
+mint-basil-limeade{
+    4  Large basil leaves
+    4  Mint leaves
+    1 oz Simple syrup 
+    1 oz Fresh lime juice
+     Soda water, to top 
+}
+
+jessica-rabbit{
+    1 1⁄2 oz Milagro silver tequila 
+    1⁄2 oz Cointreau liqueur 
+    2 oz Carrot juice
+    1 oz Fresh orange juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Cilantro simple syrup*
+    3 slices Jalapeño pepper
+}
+
+green-tox{
+    1 1⁄2 oz Tito’s Handmade vodka 
+    2 oz Green goodness juice*
+    3⁄4 oz Agave nectar
+    1 splash Fresh lemon juice
+}
+
+fields-of-travel{
+    2 oz Hou Hou Shu sparkling sake 
+    1⁄2 oz Green Chartreuse liqueur 
+    2 oz Zucchini water*
+    2 dashes Bittermens winter melon bitters 
+}
+
+idle-hands{
+    2 oz Clarified banana rum*
+    1 1⁄4 oz Banana syrup**
+    3⁄4 oz Lime 2.0***
+}
+
+rum-n-ginger{
+    1⁄4 oz Wray & Nephew overproof rum 
+    1 1⁄4 oz DR rum blend*
+    3⁄4 oz Fresh lime juice
+    1 tsp Passion fruit puree
+    1 dash Angostura bitters 
+     Blenheim ginger ale, to top 
+}
+
+jacq-la-ginger{
+    1 1⁄2 oz Redlock spiced rum 
+    2 oz Grapefruit juice
+    1⁄4 oz Brown sugar syrup 
+     Ginger beer, to top
+}
+
+dracarys{
+    1 1⁄2 oz Ancho-chile-infused bourbon*
+    1⁄2 oz Amaro Montenegro 
+    2 oz Llanllyr Source Fiery ginger beer 
+}
+
+phoenix-colada{
+    1 1⁄2 oz Coconut-infused Bluebird Distilling Sugarcane rum* 
+    1⁄2 oz Bluebird Distilling Four Grain bourbon  
+    1 1⁄2 oz Pineapple juice
+    1⁄2 oz Demerara syrup
+    2 dashes Bittermens Elemakule Tiki bitters  
+     Gosling's Stormy ginger beer, to top 
+}
+
+apprentice{
+    2 oz Shōchū
+    1 oz Miso syrup*
+    3⁄4 oz Yuzu juice
+     Soda, to top
+    3⁄4 oz Cynar liqueur, to float 
+}
+
+brothers-keeper{
+    1 1⁄2 oz Ron Zacapa Centenario Sistema Solera 23 rum 
+    1⁄2 oz Fernet-Branca liqueur 
+    1⁄2 oz Demerara sugar syrup  
+    5 drops Angostura bitters 
+    5 drops Chocolate bitters
+}
+
+freehand-old-fashioned{
+    2 oz Plantation Stiggins’ Fancy Pineapple rum 
+    1⁄4 oz Demerara syrup 
+    1 barspoon Galliano Ristretto coffee liqueur 
+    1 dash Angostura bitters 
+    1 dash Regans’ Orange Bitters No. 6 
+}
+
+expense-of-honesty{
+    1 oz Old Forester Signature bourbon 
+    1 oz Brugal añejo rum 
+    1⁄2 oz Arehucas Ron Miel Guanche rum 
+    1 tsp honey
+    1 tsp Demerara sugar
+    1 dash Peychaud’s bitters 
+    1 dash Angostura bitters 
+}
+
+autumn-rum-old-fashioned{
+    2 oz Mount Gay XO rum 
+    1 barspoon Apple cider syrup*
+    3 dashes Angostura bitters 
+}
+
+bangalore-old-fashioned{
+    1 1⁄2 oz Amrut Old Port Indian rum 
+    1⁄4 oz Plantation O.F.T.D. overproof rum 
+    1⁄4 oz Garam masala syrup*
+    1 dash Bittercube Jamaican No. 2 bitters 
+    1 dash Bittercube Blackstrap bitters 
+}
+
+storm-the-beach{
+    1 oz Hamilton 86 demerara rum 
+    1⁄2 oz Plantation O.F.T.D. rum 
+    1⁄2 oz Velvet falernum
+    1⁄2 oz Grapefruit juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Cinnamon-cumin syrup*
+    2 drops Bittermens Elemakule Tiki bitters  
+}
+
+change-in-seasons{
+    2 1⁄4 oz Plantation 3 Stars rum 
+    1 oz Fresh lime juice
+    3⁄4 oz Simple syrup
+    6  Tarragon leaves
+    2 barspoons Le Sueur very young small sweet peas 
+    5  Small pomegranate/beet/allspice ice cubes*
+}
+
+winterbird{
+    1 1⁄2 oz Plantation dark rum 
+    1⁄2 oz Fernet-Branca liqueur 
+    1⁄2 oz Combier apricot liqueur 
+    1 oz Simple syrup 
+    1 oz Fresh lime juice
+    1⁄2 oz Orange juice
+    1⁄2 oz Pineapple juice
+    4 dashes Angostura bitters 
+}
+
+winter-mojito{
+    2 oz House-spiced rum*
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Demerara syrup
+    1 barspoon Licor 43 liqueur 
+    1 oz Soda water
+    1  Mint sprig
+}
+
+winter-daiquiri{
+    1 oz Banks 5 Island rum  
+    1 oz Cruzan black strap rum 
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Simple syrup 
+}
+
+cubata{
+    1 oz Dark rum 
+    3 oz Coca-Cola 
+}
+
+kombucha-mimosa{
+    2 oz Chilled kombucha
+    4 oz Sparkling wine 
+}
+
+the-fennel-countdown{
+    1 1⁄4 oz The Real McCoy 12-year-old rum 
+    1 oz Père-Magloire V.S.O.P. calvados 
+    3⁄4 oz 291 Distillery The DECC citrus clove liqueur 
+    1⁄2 oz Fennel syrup*
+    3⁄4 oz Apricot puree
+    1⁄5 oz Fresh lemon juice
+    2 dashes Strongwater Wildfire bitters 
+}
+
+along-the-beeten-path{
+    1 oz Bols genever 
+    3⁄4 oz Caprock bitter liqueur
+    1 barspoon Caprock pear eau-de-vie
+    1⁄2 oz Fresh lemon juice
+    1 oz Beet and nutmeg syrup*
+    1 dash Cherry bitters
+}
+
+bacardi-mango-batida{
+    1 parts BACARDÍ® Mango rum
+    1 parts Cachaça
+    3 parts Dole Soft Serve
+    1 parts Pineapple juice
+    1 parts Coconut cream
+    1⁄4 parts Cinnamon syrup*
+}
+
+bacardi-miami-vice{
+    2 parts BACARDÍ® Ocho eight-year-old rum
+    2 parts Pineapple juice
+    1 parts Fresh lime juice
+    1⁄2 parts Coconut cream
+    1⁄2 parts Giffard Crème de Fraise des Bois liqueur
+}
+
+bacardi-scallywags-scandal{
+    2 parts Banks® 7 Island rum 
+    3⁄4 parts Clement coconut liqueur
+    1⁄4 parts Coffee liqueur 
+    1⁄2 parts Passion fruit syrup* 
+    3⁄4 parts Fresh lime juice
+    1⁄4 parts  Rich simple syrup 
+}
+
+bacardi-rum-old-fashioned{
+    2 oz Dark rum 
+    1 barspoon Demerara syrup
+    1 barspoon Allspice dram
+    2 dashes Orange bitters
+    2 dashes Angostura bitters 
+}
+
+pardy-hardy{
+    2 oz Blanco tequila 
+    1 oz Fresh lime juice
+    3⁄4 oz Simple syrup 
+    1⁄2 oz Fire-roasted jalapeño and tomatillo salsa*
+}
+
+london-mule{
+    2 oz Gin  
+    3 oz Ginger beer
+     Juice from half a lime
+}
+
+federal-ave-swizzle{
+    1 oz Fords gin 
+    1 oz Sake
+    1 oz Coconut water
+    1⁄4 oz Fresh turmeric juice
+    1⁄2 oz Fresh lime juice
+    3⁄4 oz Eastern medicine syrup*
+}
+
+bacardi-guava-hot-buttered-rum{
+    1⁄2 cup Unsalted butter, room temperature
+    1⁄4 cup Guava paste
+    2⁄3 cup Sugar
+    1⁄2 tsp Ground cinnamon
+    1⁄4 tsp Ground nutmeg
+    1 pinch Ground cloves
+    1 pinch Salt
+    6 oz BACARDÍ® Ocho eight-year-old rum
+}
+
+hot-buttered-fun{
+    2 oz Plantation five-year-old rum 
+    1⁄2 oz Fresh lemon juice
+    3⁄4 oz Spiced apple demerara sugar*
+}
+
+rum-dum{
+    1 1⁄4 oz John Watling’s pale rum 
+    1⁄2 oz John Watling’s amber rum 
+    1 oz Egg white
+    1 1⁄4 oz Fresh lemon juice
+    1 tsp Sugar
+}
+
+lemon-bar-clarified-milk-punch{
+    29 oz Flor de Caña four-year-old rum 
+    7 oz Licor 43 liqueur 
+    5 oz Amaro Nonino Quintessentia 
+    5 oz Batavia arrack
+    5  Meyer lemons
+    5  Lemons
+    1⁄2 gal Organic, nonhomogenized whole milk
+    1⁄2 box Graham crackers, crushed
+    1 1⁄2 cup Powdered sugar
+    4  Cinnamon sticks
+    2  Vanilla beans, split
+}
+
+bacardi-rum-fireplace{
+    2 oz BACARDÍ Ocho 8-year-old rum  
+    1 oz Apple juice (unfiltered)
+    3⁄4 oz Cinnamon and star anise syrup*
+    1⁄2 oz Fresh lemon juice
+    1⁄4 oz  Passion fruit juice
+}
+
+bacardi-winter-charm{
+    2 oz BACARDÍ Carta Negra (black) rum 
+    1 oz Barley syrup*
+    1 oz Fresh lemon juice
+    3⁄4 oz Pineapple juice
+    1 barspoon St. Elizabeth allspice dram
+    2 dashes  Angostura bitters
+}
+
+bacardi-rum-cider{
+    2 oz BACARDÍ Carta Oro gold rum  
+    1 1⁄2 oz Apple cider
+    3⁄4 oz Chamomile tea
+    3⁄4 oz Demerara syrup
+    1⁄2 oz Fresh lemon juice
+}
+
+belvedere-unfiltered-hot-cider{
+    1 oz Belvedere Unfiltered vodka
+    2 oz Pressed unfiltered apple cider, heated
+    1⁄4 oz Fresh lemon juice
+    1⁄4 oz  Demerara sugar
+     Ground cinnamon, cloves and nutmeg blend, to taste
+}
+
+belvedere-toddy{
+    1 1⁄2 oz Hot water
+    1⁄2 oz honey
+    1 oz Belvedere vodka
+    1⁄2 oz  Fresh lemon juice
+    1 oz Lillet blanc liqueur
+}
+
+belvedere-negroski{
+    1 1⁄4 oz  Belvedere Unfiltered vodka
+    1 1⁄4 oz Campari liqueur
+    1 1⁄4 oz Cocchi Vermouth di Torino
+}
+
+belvedere-unfiltered-old-fashioned{
+    1  White sugar cube
+    1 splash Soda water
+    2 oz Belvedere Unfiltered vodka
+    2 dashes Angostura bitters
+}
+
+belvedere-polish-75{
+    1 1⁄2 oz Belvedere vodka
+    3⁄4 oz Simple syrup
+    3⁄4 oz Fresh lemon juice
+     Moët & Chandon Impèrial brut Champagne, to top
+}
+
+hot-red-rum{
+    1 1⁄2 oz Plantation Barbados five-year-old rum 
+    1 oz Red wine
+    1⁄4 oz Ramazzotti amaro
+    1⁄4 oz Fresh lemon juice
+    1⁄4 oz Rich demerara syrup
+    1⁄4 oz Rich honey syrup 
+    1⁄4 dropper The Bitter End Memphis Barbeque bitters 
+}
+
+hot-mulled-rum{
+    1 bottle Pinot noir (750 mL)
+    2  Oranges, peeled and sliced
+    1 cup Rich demerara syrup
+    8 oz Papa’s Pilar Blonde rum 
+    3  Cinnamon sticks
+    8  Whole cloves
+    1 tsp Sliced ginger
+    1 cup Dried hibiscus flowers
+}
+
+is-it-a-full-moon{
+    1 1⁄2 oz Scarlet Ibis Trinidad rum 
+    1 oz Pie spice liqueur*
+    2 oz Apple cider
+}
+
+cheeky-peach{
+    2 oz Vodka 
+    1⁄2 oz Peach schnapps
+    1 oz Pineapple juice
+    1⁄2 oz Simple syrup 
+    2 dashes Peychaud’s bitters 
+    5  Mint leaves
+     Soda water, to top 
+}
+
+mama-im-coming-home{
+    1 1⁄2 oz Pecan-infused Cutty Sark blended scotch* 
+    3⁄4 cup Fonseca Bin No. 27 port 
+    2 cup Apple cider
+    3⁄4 cup Honey syrup
+    2  Cinnamon sticks
+    7  Cloves
+}
+
+java-the-hutt{
+    1 1⁄2 oz Cutwater Fugu horchata vodka  
+    2 oz Cold-brew coffee
+    1⁄2 oz Half-and-half 
+    1⁄4 oz Giffard white crème de cacao liqueur 
+    1⁄2 oz Simple syrup 
+}
+
+death-star-2{
+    1 oz Jägermeister digestif 
+    1 oz Gentleman Jack Tennessee whiskey 
+    1 oz Grey Goose vodka 
+    1 oz Triple sec
+    2 oz Sour mix
+    2 oz Coca-Cola 
+}
+
+drink-me-you-will{
+    1 1⁄2 oz Calvados 
+    1 oz Apple cider
+    1⁄2 oz Sage simple syrup*
+    1⁄2 oz Fresh lemon juice
+    6  Basil leaves
+}
+
+the-frost-awakens{
+    1 1⁄2 oz Bayou rum  
+    2 oz Coconut milk
+    2 oz Pineapple juice
+    2 oz Fresh orange juice
+}
+
+rancors-toothpick{
+    1 1⁄2 oz Old Forester Signature 100-proof bourbon 
+    1 oz Cynar liqueur 
+    1 oz Sweet vermouth 
+    2 dashes Mole bitters 
+}
+
+ti-bijou{
+     Absinthe, to rinse 
+    1 oz Boukman botanical rhum agricole (or Barbancourt blanc) 
+    1⁄2 oz London dry gin 
+    1⁄2 oz Dolin blanc vermouth 
+    1⁄2 oz Chamomile tea syrup*
+    1 pinch Salt
+    2 drops Orange bitters
+}
+
+batida-2{
+    2 oz Novo Fogo silver cachaça 
+    1 oz BG Reynolds passion fruit syrup 
+    1⁄2 oz Coconut milk
+    1⁄2 oz Fresh lime juice
+}
+
+el-guapo{
+    2 oz Corazón blanco tequila 
+    1 1⁄2 oz The Perfect Purée of Napa Valley El Corazon fruit purée 
+    1 oz Simple syrup (1:1) 
+    1 oz Fresh lime juice
+    1 oz Del Maguey Vida mezcal 
+}
+
+mint-chocolate-chip-shot{
+     Baileys Irish cream liqueur
+     Crème de menthe liqueur
+     Frangelico liqueur
+}
+
+pear-and-pub-ale-party-punch{
+    8 oz Rye Whiskey
+    6 oz Dark rum
+    3 oz Orange juice
+    2 oz Lemon juice
+    8 oz Cinnamon pear syrup*
+    2  12-oz cans of ale (such as Lucky Town pub ale) 
+}
+
+chinese-5-spiced-dark-n-stormy{
+    2 oz Chinese-five-spiced rum*
+     Chilled ginger beer, to top
+}
+
+zig-a-zig-ahh{
+    1 dash Absinthe  
+    2 oz Spiced rum
+    3⁄4 oz Fresh lime juice
+    1⁄2 oz Passion fruit juice
+    1⁄4 oz Falernum
+    2 dashes Angostura bitters 
+}
+
+thats-how-we-casserole{
+    1 1⁄2 oz El Pelotón de la Muerte mezcal 
+    1⁄2 oz Green Chartreuse liqueur
+    1⁄4 oz Cynar liqueur
+    1⁄4 oz Salted lime simple syrup*
+    1 oz Pureed green beans**
+}
+
+bundevara{
+    1 splash Tuaca liqueur  
+    2 oz Bourbon
+    1 oz Sweet potato syrup*
+    1⁄2 oz Don Ciccio & Figli Mandarinetto liqueur 
+}
+
+holiday-dinner{
+    2 oz Thyme- and saffron-infused Plymouth gin* 
+    1⁄2 oz Cocchi Americano apéritif 
+    1⁄4 oz Turkey broth syrup**
+    4 drops Weatherby’s orange saffron bitters 
+     Scrappy’s celery bitters, to rinse glass 
+}
+
+beet-on{
+    1 1⁄2 oz Arak
+    1 oz Beet juice
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Simple syrup 
+    4  Mint leaves
+}
+
+honey-kissed-cosmopolitan{
+    1  Lime wedge
+    1  Rosemary sprig 
+    1 oz Honey
+    1 3⁄4 oz Absolut Ruby Red vodka 
+    1 1⁄4 oz Cranberry juice
+}
+
+bacardi-cocktail{
+    2 parts Bacardí Ocho rum 
+    3⁄4 parts Fresh lime juice
+    3⁄4 parts Homemade grenadine* 
+}
+
+samarian-sunset{
+    1 1⁄2 oz White rum
+    1⁄2 oz Cabbage rum*
+    3⁄4 oz Triple sec
+    3⁄4 oz Simple syrup 
+    3 oz Sparkling water 
+    3⁄4 oz Grapefruit juice
+    1⁄2 oz Lime juice
+    1 pinch Salt
+}
+
+bacardi-superior-daiquiri{
+    2 oz Light rum 
+    1 oz Fresh lime juice
+    3⁄4 oz Demerara sugar syrup
+}
+
+hot-buttered-rum{
+    2 oz Gold rum 
+    1 tbsp Hot buttered rum batter 
+     Boiling water
+}
+
+hot-toddy{
+     Boiling water, to fill a mug
+    4  Cloves
+    1  Lemon peel or wheel
+    2 tsp Demerara sugar or brown sugar
+    1⁄4 oz Fresh lemon juice
+    2 oz Bourbon, rye whiskey, Irish whiskey or scotch
+}
+
+singapore-sling{
+    3⁄4 oz Gin 
+    1⁄4 oz Grand Marnier 
+    1⁄4 oz Cherry liqueur 
+    1⁄4 oz Herbal liqueur
+    1 oz Pineapple juice
+    1⁄2 oz Fresh lime juice
+    1 dash Bitters
+     Club soda, to top
+}
+
+amaretto-sour{
+    1 1⁄2 oz Amaretto liqueur
+    3⁄4 oz Cask-proof bourbon
+    1 oz Fresh lemon juice
+    1 tsp Rich simple syrup*
+    1⁄2 oz Egg white, beaten
+}
+
+screwdriver{
+    1 1⁄2 oz Vodka 
+     Orange juice
+}
+
+white-russian{
+    2 oz Vodka 
+    1 oz Kahlúa
+    1 splash Heavy cream 
+}
+
+eggnog{
+    1  Grated nutmeg
+    6  Eggs, separated
+    3⁄4 cup Sugar, divided 
+    32 oz Whole milk
+    16 oz Heavy cream 
+    8 oz Bourbon 
+    4 oz Spiced rum 
+}
+
+coffee-and-ti{
+    1 1⁄2 oz Clément 10-year-old rhum agricole 
+    1⁄4 oz J. Rieger Caffé amaro 
+    1 barspoon Cane syrup
+}
+
+maracuya-mistress{
+    2 oz Clément Canne Bleue blanc rhum agricole 
+    3⁄4 oz Passion fruit juice
+    1⁄2 oz Hibiscus syrup*
+    1⁄2 oz Fresh lime juice
+}
+
+cazadores-tequila-manhattan{
+    1 1⁄2 oz Cazadores reposado tequila
+    1 oz Sweet vermouth
+    1⁄2 oz Fernet 
+    2 dashes Chocolate-mole bitters
+}
+
+cazadores-surf-turf-tacos{
+    1⁄2 cup olive oil
+    2 tbsp Fresh lime juice
+    2 tbsp Fresh orange juice
+    2 tbsp Minced shallot
+    2  cloves garlic, finely chopped
+    1 tsp crushed red pepper
+    1⁄2 cup Lightly packed chopped cilantro, plus more for garnish
+    2 lb skirt steak
+    1 lb 26–30-count shrimp, peeled and deveined
+     Pico de gallo*
+     Sour cream, for serving
+     Warm corn tortillas
+}
+
+miles-runs-the-voodoo-down{
+    6  Blueberries
+    2 barspoons Brown sugar
+    1 dash Overproof rum
+     Ground cinnamon
+    3 oz Banana-infused bourbon*
+}
+
+jack-daniels-rye-ball{
+    1 1⁄2 oz Jack Daniel’s Tennessee Rye
+    1⁄2 oz Fresh lemon juice
+    1⁄2 oz Simple syrup
+    2 dashes Peychaud’s bitters
+     Soda water, to top
+}
+
+jack-daniels-vieux-carre{
+    3⁄4 oz Jack Daniel's Tennessee rye
+    3⁄4 oz Cognac
+    3⁄4 oz Sweet vermouth
+    1 tsp Bénédictine
+    2 dashes Peychaud's bitters
+    2 dashes Angostura bitters
+}
+
+the-apple-fell-far-from-the-tree{
+    1 1⁄2 oz Butterfly-pea-flower-infused blanco tequila*
+    1⁄2 oz Plantation Stiggins’ Fancy Pineapple rum 
+    1⁄4 oz Hamilton pimento dram
+    3⁄4 oz Fresh lime juice
+    3⁄4 oz Fuji apple syrup**
+}
+
+clarita{
+    2 oz Bacardí Gran Reserva Maestro de Ron eight-year-old rum 
+    1⁄3 oz Amontillado sherry
+    1 barspoon Crème de cacao
+    2 dashes Absinthe 
+    1 dash Saline solution
+}
+
+cazadores-tequila-blood-orange-soda{
+    1 1⁄2 oz Cazadores blanco tequila Buy Now 
+    1 oz Blood orange juice
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Agave nectar
+     Club soda
+}
+
+cazadores-black-been-sweet-potato-tacos{
+    2 tbsp Coconut oil
+    1  Large white onion, chopped
+    1  Green bell pepper, seeded and chopped
+    2  Poblano peppers, seeded and chopped
+    2 tsp Chili powder
+    1 tsp Cumin
+    1  Jalapeño, minced
+    3  cloves Garlic, minced
+    1 cup Chicken or vegetable stock
+    1 1⁄2 lb Sweet potatoes, peeled and cut into 1/2” cubes (about 5 cups chopped)
+    2  15-oz cans of black beans
+    2  Avocados, pitted and sliced
+    4  Radishes, sliced into matchsticks
+     Sour cream, for serving
+     Corn tortillas warmed in an oven or grilled 
+     Cilantro, for garnish
+}
+
+bacardi-mary-pickford-4{
+    2 parts Bacardí Superior rum
+    3 chunks Fresh pineapple
+    1 parts Fresh pineapple juice
+    1⁄4 parts Pomegranate grenadine syrup
+    1⁄4 parts Maraschino liqueur 
+}
+
+bacardi-hemingway-special{
+    2 parts Bacardí Superior rum
+    1⁄3 parts Maraschino liqueur 
+    1⁄4 parts Fresh lime juice
+    1⁄2 parts Fresh white grapefruit juice
+}
+
+bacardi-salvacion{
+    1 1⁄2 parts Bacardí Superior rum
+    1 parts Freshly pressed pineapple juice
+     3 Sage leaves
+    2⁄5 parts Yellow Chartreuse liqueur
+    2⁄5 parts Fresh lemon juice
+    1⁄5 parts Velvet falernum
+}
+
+bacardi-air-mail{
+    2 parts BACARDÍ GOLD Rum
+    1⁄2 parts Fresh lime juice
+    1 tsp honey
+     Champagne, to fill 
+}
+
+bacardi-espresso-san-juan{
+    1 1⁄2 parts Bacardí Superior rum
+    1 parts Dark chocolate
+    1 parts Strong espresso coffee
+    3⁄4 parts Fine white sugar (caster sugar) 
+}
+
+bacardi-aurmum{
+    1 2⁄5 parts Bacardí 8 Años rum
+    2 parts Noilly Prat Ambré vermouth
+    4 dashes Aromatic bitters
+}
+
+bacardi-martini-santeria{
+    2 2⁄5 parts Bacardí Superior rum
+    2 2⁄5 parts Martini rosato vermouth
+}
+
+bacardi-anejo-highball{
+    1 1⁄2 parts Bacardí 8 Años rum
+    1⁄2 parts Orange Curaçao liqueur
+    1⁄2 parts Fresh lime juice
+    2 dashes Angostura bitters
+    2 parts Ginger beer
+}
+
+bacardi-bees-kiss{
+    2 parts Bacardí Superior rum
+    2⁄5 parts Fresh cream
+    2⁄5 parts honey
+}
+
+bacardi-sidecar{
+    1 parts Bacardí Superior rum
+    1 parts Triple sec
+    1 parts Fresh lime juice
+    2⁄5 parts Simple syrup
+}
+
+bacardi-rum-julep{
+    2 parts Bacardí 8 Años rum
+    6  Mint leaves
+    2⁄5 parts Simple syrup
+    2 dashes Peach bitters
+}
+
+bacardi-hurricane{
+    2 parts BACARDÍ Black rum 
+    1 1⁄2 parts Bacardí Superior rum
+    2 parts Orange juice
+    1 parts Fresh lime juice
+    1 parts Passion fruit syrup* 
+    1 tsp Grenadine Syrup
+}
+
+bacardi-maestro-collins{
+    2 parts Bacardí Gran Reserva Maestro de Ron
+    1 parts Fresh lemon juice
+    2 tsp Fine white sugar (caster sugar) 
+    1  Club soda, to fill
+}
+
+bacardi-daiquiri{
+    2 parts Bacardí Superior rum 
+    1 parts Fresh lime juice
+    2 tsp Sugar
+}
+
+bacardi-eggnog{
+    2 parts BACARDÍ Carta Negra Rum
+    4 parts Eggnog
+    1 dash Vanilla extract
+}
+
+bacardi-mai-tai{
+    1 parts Bacardí 8 Años rum
+    1 parts BACARDÍ GOLD Rum
+    1⁄2 parts Orange curaçao
+    2⁄5 parts Freshly Squeezed Lime Juice
+    2⁄5 parts Orgeat Syrup
+}
+
+bacardi-el-presidente-no-1{
+    2 parts BACARDÍ GOLD Rum
+    1 parts MARTINI® Rosso Vermouth
+    1 dash Angostura® bitters
+}
+
+cazadores-tequila-blackberry-punch{
+    4  Blackberries, plus more for garnish if desired
+    3⁄4 oz Raspberry or blackberry liqueur
+    1⁄2 oz Agave nectar
+    1 1⁄2 oz Cazadores blanco tequila Buy Now 
+    3⁄4 oz Fresh lime juice
+}
+
+cazadores-pork-pineapple-tacos{
+    1 cup Pineapple juice (fresh or canned)
+    3  cloves Garlic, minced
+    2 tbsp Apple cider vinegar
+    2 tbsp Fresh lime juice
+    1 tbsp Tomato paste
+    1 tbsp Chili powder
+    1⁄2 tbsp Salt
+    2  Cinnamon sticks
+    2 lb Boneless pork loin
+     Pineapple jalapeño salsa*
+     Sour cream, for serving
+     Corn tortillas, warmed in the oven or grilled 
+}
+
+speyside-smash{
+    1 oz Aberlour 12-year-old scotch 
+    1 oz Dark aged rum
+    3⁄4 oz House sugar
+    3⁄4 oz Fresh lime juice
+    8  Mint leaves
+}
+
+snap-chat-rum{
+    1 1⁄2 oz Dark aged rum 
+    1 oz Fresh lime juice
+    3⁄4 oz Simple syrup 
+    1 1⁄2 oz Pressed sugar snap pea with fennel bulb
+}
+
+garibaldi{
+    1 oz Averna amaro 
+    1 oz Aged rum 
+    1⁄2 oz John D. Taylor's Velvet falernum 
+    1⁄2 oz Fresh lime juice
+    1 dash Orange bitters
+    1 splash S. Pellegrino mineral water 
+}
+
+paddington-2{
+    1 dash St. George Absinthe Verte
+    1 1⁄2 oz Lightly aged blended rum
+    1⁄2 oz Lillet Blanc
+    1⁄2 oz Grapefruit juice
+    1⁄2 oz Lemon juice
+    1 tsp Bonne Maman Orange Marmalade
+}
+
+tequila-corpse-reviver{
+    3⁄4 oz Cazadores blanco tequila Buy Now 
+    3⁄4 oz sweet blanc vermouth
+    3⁄4 oz Lime juice
+    1⁄2 oz Triple sec
+    1⁄4 oz Orange juice
+    1 tsp Absinthe
+}
+
+shredded-beef-tacos{
+    2 lb chuck roast
+     Salt and pepper
+    2 tbsp vegetable oil, divided
+    1  each yellow, red, and green bell pepper, seeded and thinly sliced
+    1  small yellow onion, thinly sliced
+    1  jalapeño, diced
+    4  cloves garlic, finely chopped
+    1 tsp ground cumin
+    2 tsp dried oregano
+    1 tsp smoked paprika
+    1⁄2 tsp Ground cloves
+    1⁄4 cup dry sherry or white wine
+    1  28oz can diced tomatoes
+    2  bay leaves
+    1⁄2 cup pitted green olives, halved
+    2 tbsp capers
+     Cotija or feta cheese for serving
+    1⁄4 cup chopped cilantro, divided 
+     Corn tortillas, warmed in the oven or grilled 
+}
+
+from-jura-to-java{
+    1⁄2 oz Isle of Jura Superstition single-malt scotch 
+    1 oz Foursquare 2004 single-blended rum
+    3⁄4 oz Batavia-arrack 
+    3⁄4 oz Lazzaroni amaro 
+    2 dashes The Bitter Truth chocolate bitters 
+}
+
+monastery{
+    1 1⁄2 oz Maraska slivovitz
+    1⁄2 oz Fresh lime juice
+    1⁄2 oz Honey syrup (1:1 or equal parts acacia honey and water) 
+    1 tsp Plum preserves (Baba uses EuroGourmet plum jam)  
+    3  Fresh basil leaves
+}
+
+tequila-martini{
+    1 1⁄2 oz Blanco tequila 
+    3⁄4 oz sweet white vermouth
+    1⁄4 oz Lemon juice
+    2 dashes Orange bitters
+}
+
+salmon-tacos-with-mango-salsa{
+    1 tsp smoked paprika
+    1 tsp Cumin
+    1 tsp Chili powder
+     Salt and pepper
+    1 1⁄2 lb (about 3) skinless salmon fillets
+     Corn tortillas, warmed in the oven or grilled 
+     Sour cream and lime wedges for serving
+    1  very ripe mango, peeled and diced (about ¾ cup)
+    1⁄3 cup lightly packed chopped cilantro
+    1 tbsp Minced shallot
+    1 tbsp minced jalapeño
+    1⁄2 tbsp Lime juice
+     *Mango salsa
+}
+
+aquarelle{
+    1 oz Citadelle gin 
+    1⁄2 oz Pineau des Charentes apéritif
+    1⁄2 oz Salers apéritif 
+    1⁄2 oz Strawberry cordial*
+    1 oz Fresh lemon juice
+}
+
+bamboo-2{
+    2 oz Brisson Pineau des Charentes apéritif
+    2 oz Dolin dry vermouth
+    3 dashes Angostura bitters 
+    3 dashes Regans’ Orange Bitters No. 6 
+}
+
+sour-grapes-2{
+    1 1⁄2 oz Bonded bourbon 
+    1 oz Pineau de Charentes apéritif
+    1⁄2 oz Simple syrup 
+    3⁄4 oz Fresh lemon juice
+    1  Egg white
+    3 dashes Angostura bitters 
+}
+
+raisin-cane{
+    2 oz Pierre Ferrand Pineau des Charentes apéritif 
+    1⁄2 oz Paranubes Oaxacan rum 
+    1⁄2 oz El Maestro Sierra amontillado sherry 
+    1 dash Bittermens Xocolatl Mole bitters 
+}
+
+head-over-heels{
+    2 oz The 86 Co. Cabeza blanco tequila  
+    3⁄4 oz Pineau des Charentes apéritif
+    3⁄4 oz Martini bianco vermouth 
+    2 dashes Gran Classico bitter
+}
+
+heaven-hill-stone-barn{
+    1 oz Elijah Craig bourbon
+    1⁄4 oz Cruzan black strap rum
+    1⁄2 oz Domaine de Canton ginger liqueur
+    3⁄4 oz Coconut syrup*
+    3⁄4 oz Carrot juice**
+    1⁄2 oz Fresh lemon juice
+    4  Fresh dill pieces 
+}
+
+new-slang{
+    1 3⁄4 oz Bombay Sapphire gin 
+    3⁄4 oz Cherry shrub*
+    3⁄4 oz Pineapple juice
+    1⁄2 oz Fresh lime juice
+    2 dashes Salt solution (3:1 water to salt)
+    3 oz Coconut water soda**
+}
+
+manu-de-chango{
+    1 1⁄2 oz Angelisco blanco tequila  
+    1⁄2 oz Pierre Ferrand dry curaçao   
+    3⁄4 oz Guava syrup*
+    1 oz Grapefruit juice
+    1⁄2 oz Fresh lime juice
+}
+
+pour-ma-guele{
+    1 1⁄2 oz Bombay Sapphire gin 
+    1 1⁄2 oz Dolin dry vermouth
+    1 1⁄2 oz Water, ice cold
+    1⁄4 oz Maraschino liqueur 
+    1⁄4 oz Verjus blanc
+    3 dashes Orange bitters
+    2 dashes St. George absinthe verte 
+    1 tbsp Cassia bark
+    1  Dried lemon peel
+}
