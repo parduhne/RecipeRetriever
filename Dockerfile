@@ -12,4 +12,6 @@ RUN npm install
 COPY . .
 
 EXPOSE 8080
+EXPOSE 5432
+EXPOSE 4000
 CMD [ "node", "server.js" ]

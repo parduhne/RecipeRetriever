@@ -15,31 +15,38 @@ services:
     # when we start out container
     environment:
      - POSTGRES_DB=recipe-retriever
+     - POSTGRES_PASSWORD=retriever
+     # username is postgres
     healthcheck:
       test: ["CMD-SHELL", "pg_isready -U postgres"]
       interval: 30s
       timeout: 30s
       retries: 3
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8080:8080
 
   # our basic node server we'll name "basic"
-  basic: 
-    # the directory path - relative to this compose file - where
-    # we'll be able to find the Dockerfile
-    build: ./
-    # the port mappings we do so that traffic that docker
-    # will forward from localhost -> container
-    ports:
-      - "4000:4000"
-      - "9229:9229"
+ # basic: 
+ #   # the directory path - relative to this compose file - where
+ #   # we'll be able to find the Dockerfile
+ #   build: ./
+ #   # the port mappings we do so that traffic that docker
+ #   # will forward from localhost -> container
+ #   ports:
+ #     - "4000:4000"
+ #     - "9229:9229"
 
     # tell docker compose to watch ./server.js - the path relative
     # to our compose file on our computer - and then make that reflect
     # the same file at /usr/src/app/server.js inside of the container
-    volumes:
-      - "./server.js:/usr/src/app/server.js"
-    environment:
-      # inside of a container postgres - since its a container name- is a special usage where Docker
-      # will magically forward traffic to it
-      - DB_HOST=postgres
-      - DB_USER=postgres
-      - DB_NAME=recipe-retriever
+#    volumes:
+#      - "./server.js:/usr/src/app/server.js"
+#    environment:
+#      # inside of a container postgres - since its a container name- is a special usage where Docker
+#      # will magically forward traffic to it
+#      - DB_HOST=postgres
+#      - DB_USER=postgres
+#      - DB_NAME=recipe-retriever

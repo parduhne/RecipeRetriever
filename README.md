@@ -1,6 +1,6 @@
 # RecipeRetriever
 
-## To build:
+## To build:  (not needed right now)
 docker-compose build basic
 
 ## To run:
