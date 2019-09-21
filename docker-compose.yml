@@ -8,7 +8,7 @@ services:
     ports:
      - "5432:5432"
     volumes:
-     - .:/data
+     - ./database:/var/lib/postgresql/data
 
     # this environment variable - as noted on Docker Hub - will
     # create a database with this name if it doesnt already exist
@@ -27,7 +27,29 @@ services:
     restart: always
     ports:
       - 8080:8080
-
+  node:
+    image: node:11
+    volumes:
+      - .:/usr/src/service
+      - nodemodules:/usr/src/service/node_modules
+    working_dir: /usr/src/service
+    command: bash -c "npm install && npm install -g knex && npm install knex pg --save && npm install -g nodemon &&  npm run start"
+    ports:
+    # node exposed on 8000
+    # node debug on 9229
+      - 9229:9229
+      - 8000:8000
+    environment:
+      # inside of a container postgres - since its a container name- is a special usage where Docker
+      # will magically forward traffic to it
+      - DB_HOST=postgres
+      - DB_USER=postgres
+      - DB_PASS=retriever
+      - DB_NAME=recipe-retriever
+volumes:
+  nodemodules:
+    external: true
+# need to do docker volume create nodemodules first
   # our basic node server we'll name "basic"
  # basic: 
  #   # the directory path - relative to this compose file - where
