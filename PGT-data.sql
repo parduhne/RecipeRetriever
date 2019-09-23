@@ -1,3 +1,5 @@
+
+
 INSERT INTO "Measurements" ("ID", "Name") VALUES
 (0, 'Dry'),
 (1, 'Wet'),
@@ -27,6 +29,3 @@ INSERT INTO "IngredientsRecipes" ("ID", "RecipeID", "Size", "IngredientID") VALU
 (0,	0,	1.5,	0),
 (1,	0,	0.5,	1),
 (2,	0,	2,	2);
-
-
--- 2019-09-21 02:17:06.944757+00

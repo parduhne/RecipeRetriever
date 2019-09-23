@@ -1,7 +1,4 @@
--- Adminer 4.7.3 PostgreSQL dump
-
--- DROP DATABASE IF EXISTS "recipe-retriever";
--- CREATE DATABASE "recipe-retriever";
+-- This should be run with the db selected
 
 DROP TABLE IF EXISTS "Measurements" CASCADE;
 DROP TABLE IF EXISTS "Recipes" CASCADE;
@@ -49,7 +46,9 @@ CREATE TABLE "public"."IngredientsRecipes" (
     "ID" integer NOT NULL,
     "RecipeID" integer NOT NULL,
     "Size" real NOT NULL,
+    "IngredientID" integer NOT NULL,
     CONSTRAINT "IngredientsRecipes_ID" PRIMARY KEY ("ID"),
+    CONSTRAINT "IngredientsRecipes_IngredientID_fkey" FOREIGN KEY ("IngredientID") REFERENCES "Ingredients"("ID") NOT DEFERRABLE,
     CONSTRAINT "IngredientsRecipes_RecipeID_fkey" FOREIGN KEY ("RecipeID") REFERENCES "Recipes"("ID") NOT DEFERRABLE
 ) WITH (oids = false);
 
@@ -80,9 +79,3 @@ CREATE TABLE "public"."Units" (
     CONSTRAINT "Units_MeasurementID_fkey" FOREIGN KEY ("MeasurementID") REFERENCES "Measurements"("ID") NOT DEFERRABLE
 ) WITH (oids = false);
 
-
-
-
-
-
--- 2019-09-21 02:04:25.448149+00
