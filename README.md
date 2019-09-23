@@ -14,8 +14,14 @@ The docker-compose command below creates 3 docker containers:
 `docker-compose up`
 
 ## adminer
-Go to http://<docker ip>:8080
+Go to http://docker ip:8080
 
 Open the docker-compose.yml file to find the user/pass/db.  The host is postgres.
-Once logged in you can load the `PGT-schema.sql` or `PGT-schema-wdata.sql` files to populate the DB.  
-Each will drop the current tables.  TODO: work this into a script to run.  TODO: find where the DB state is!
+Once logged in, select the recipe-retriever db and import the `PGT-schema.sql` file, then import the `PGT-data.sql` file to populate the DB with sample data. 
+`PGT-schema.sql` will drop all current tables and delete all data.  
+
+## postgres Note
+
+postgres is set to save its data files (state) to the `database` directory here.  If no directory is present it will create one and fill it (verify this in Windows). If the directory is present with files other than DB files, the postgres server will start to do a database initialization but fail.  Then every 30 seconds it will try again, and fail.  The solution is to delete all files in the database directory, or completely delete the directory.
+
+During the database initialization stage it will create the `recipe-retriever` database, since it was mentioned in the `docker-compose.yml` file.
