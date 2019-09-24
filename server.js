@@ -35,10 +35,6 @@ app.get('/', function (req, res) {
 	  .then((rows) => res.json( {info: rows }));
 })
 
-//Launch listening server on port 8000
-app.listen(port, function () {
-  console.log('app listening on port 8000!')
-})
 
 // An API to execute a SQL file on the system
 // Ex: http://192.168.99.100:8000/rawapply?file=PGT-schema.sql
