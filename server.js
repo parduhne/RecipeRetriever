@@ -16,7 +16,8 @@ const knex = require('knex')({
     port: 5432,
     user: process.env.DB_USER,
     password: process.env.DB_PWD,
-    database: process.env.DB_NAME
+    database: process.env.DB_NAME,
+    multipleStatements: true
   }
 });
 
@@ -29,7 +30,7 @@ app.use(
 
 //Define request response in root URL (/)
 // http://zetcode.com/javascript/knex/
-app.get('/users', function (req, res) {
+app.get('/', function (req, res) {
   knex.from('Users').select("*")
 	  .then((rows) => res.json( {info: rows }));
   //console.log(req.query['insert'])
@@ -39,6 +40,23 @@ app.get('/users', function (req, res) {
 //Launch listening server on port 8081
 app.listen(port, function () {
   console.log('app listening on port 8000!')
+})
+
+app.get('/rawapply', function (req, res) {
+  if(req.query.file){
+    var fs = require('fs');
+    var sql = fs.readFileSync(req.query.file).toString();
+    knex.raw(sql).then( function(resp){
+          console.log(resp);
+          res.json( {success: resp });
+    }).catch( function( err ){
+        console.log(err);
+        res.json( {error: err });
+    })
+    //res.json( {info: 1 });
+  }else{
+    res.json( {info: 0 });
+  }
 })
 
 /*

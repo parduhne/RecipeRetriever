@@ -1,4 +1,12 @@
 
+-- Remove all data from all tables since the insert statements below contain id numbers.
+-- Cascade will also remove rows if a foreign key is used.
+TRUNCATE "IngredientsRecipes" CASCADE;
+TRUNCATE "Ingredients" CASCADE;
+TRUNCATE "Units" CASCADE;
+TRUNCATE "Users" CASCADE;
+TRUNCATE "Recipes" CASCADE;
+TRUNCATE "Measurements" CASCADE;
 
 INSERT INTO "Measurements" ("ID", "Name") VALUES
 (0, 'Dry'),

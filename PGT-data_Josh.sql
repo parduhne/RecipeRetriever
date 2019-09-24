@@ -1,3 +1,12 @@
+
+TRUNCATE "IngredientsRecipes" CASCADE;
+TRUNCATE "Ingredients" CASCADE;
+TRUNCATE "Units" CASCADE;
+TRUNCATE "Users" CASCADE;
+TRUNCATE "Recipes" CASCADE;
+TRUNCATE "Measurements" CASCADE;
+
+
 INSERT INTO "Measurements" ("ID", "Name") VALUES
 (0, 'Dry'),
 (1, 'Wet'),
@@ -25,8 +34,8 @@ INSERT INTO "Units" ("ID", "Name", "ConversionFactor", "MeasurementID") VALUES
 (0,  'Cup', 1, 0),
 (1,  'Tablespoon', 16, 0),
 (2,  'US_Fl.oz', 1, 1),
-(3,  'Shot', 1.5, 1);
-(4,  'Drop', 0.001736111111, 1),
+(3,  'Shot', 1.5, 1),
+(4,  'Drop', 0.0017, 1),
 (5,  'Smidgen', 0.00062, 0),
 (6,  'Pinch', 0.0013, 0),
 (7,  'Dash', 0.0026, 0),
