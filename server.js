@@ -33,15 +33,17 @@ app.use(
 app.get('/', function (req, res) {
   knex.from('Users').select("*")
 	  .then((rows) => res.json( {info: rows }));
-  //console.log(req.query['insert'])
-  //res.json( {info: "bobb"} )
 })
 
-//Launch listening server on port 8081
+//Launch listening server on port 8000
 app.listen(port, function () {
   console.log('app listening on port 8000!')
 })
 
+// An API to execute a SQL file on the system
+// Ex: http://192.168.99.100:8000/rawapply?file=PGT-schema.sql
+// Ex: http://192.168.99.100:8000/rawapply?file=PGT-data.sql
+// Ex: http://192.168.99.100:8000/rawapply?file=PGT-data_Josh.sql
 app.get('/rawapply', function (req, res) {
   if(req.query.file){
     var fs = require('fs');
@@ -53,50 +55,14 @@ app.get('/rawapply', function (req, res) {
         console.log(err);
         res.json( {error: err });
     })
-    //res.json( {info: 1 });
   }else{
     res.json( {info: 0 });
   }
 })
 
-/*
-const knex = require('knex')({
-  client: 'postgresql',
-  connection: {
-    debug: 'true',
-    host: process.env.DB_HOST,
-    port: 5432,
-    user: process.env.DB_USER,
-    password: process.env.DB_PWD,
-    database: process.env.DB_NAME
-  }
-});
 
-function logHeartbeat() {
-  knex
-    .select('*')
-    .from('pg_catalog.pg_tables')
-    .asCallback(function(err, result) {
-      console.log("Hey");
-    });
-}
 
-function testDb(){
-  knex.schema.createTable('users', (table) => {
-    table.increments('id')
-    table.string('name')
-    table.integer('age')
-  })
-  .then(function(){
-    return knex("users").insert([
-      {name: "Abe", age: 20},
-      {name: "Boris", age: 22},
-      {name: "Coolio", age: 100}])
-  })
-  .then(function(){
-    knex("users").then(rows => console.log(rows))
-  });
-}
-
-testDb();
-*/
+//Launch listening server on port 8000
+app.listen(port, function () {
+  console.log('app listening on port 8000!')
+})
