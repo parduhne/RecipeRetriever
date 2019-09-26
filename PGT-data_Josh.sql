@@ -138,7 +138,7 @@ INSERT INTO "IngredientsRecipes" ("ID", "RecipeID", "Size", "IngredientID") VALU
 (24, 7, 0.25, 24),
 (25, 7, 3, 25),
 
--- Santa teresa 1796 
+-- Santa teresa 1796
 (26, 8, 1.5, 26),
 (27, 8, 0.33, 27),
 (28, 8, 4, 28),
@@ -151,3 +151,8 @@ INSERT INTO "IngredientsRecipes" ("ID", "RecipeID", "Size", "IngredientID") VALU
 
 
 -- 2019-09-21 02:17:06.944757+00
+insert into "Pantry" ("UserID","IngredientID","Size") Values
+(0,0,50),
+(0,2,88),
+(0,3,44),
+(0,4,100);
