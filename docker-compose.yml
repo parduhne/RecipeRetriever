@@ -33,7 +33,7 @@ services:
       - .:/usr/src/service
       - nodemodules:/usr/src/service/node_modules
     working_dir: /usr/src/service
-    command: bash -c "npm install && npm install -g knex && npm install knex pg --save && npm install -g nodemon &&  npm run start"
+    command: bash -c "npm install && npm install pg --save && npm install -g nodemon &&  npm run start"
     ports:
     # node exposed on 8000
     # node debug on 9229
