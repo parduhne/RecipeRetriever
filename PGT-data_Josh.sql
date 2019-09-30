@@ -1,18 +1,18 @@
 
-TRUNCATE "IngredientsRecipes" CASCADE;
-TRUNCATE "Ingredients" CASCADE;
-TRUNCATE "Units" CASCADE;
-TRUNCATE "Users" CASCADE;
-TRUNCATE "Recipes" CASCADE;
-TRUNCATE "Measurements" CASCADE;
+TRUNCATE IngredientsRecipes CASCADE;
+TRUNCATE Ingredients CASCADE;
+TRUNCATE Units CASCADE;
+TRUNCATE Users CASCADE;
+TRUNCATE Recipes CASCADE;
+TRUNCATE Measurements CASCADE;
 
 
-INSERT INTO "Measurements" ("ID", "Name") VALUES
+INSERT INTO Measurements (ID, Name) VALUES
 (0, 'Dry'),
 (1, 'Wet'),
 (2, 'Count');
 
-INSERT INTO "Recipes" ("ID", "Name", "Description") VALUES
+INSERT INTO Recipes (ID, Name, Description) VALUES
 (0,  'Gin Sonic', 'A sonic made with gin'), -- line 5
 (1,  'Haileys Comet', 'A frutiy drink'), -- line 21
 (2,  'Sugar baby', 'Watermelon drink'), -- line 37
@@ -25,12 +25,12 @@ INSERT INTO "Recipes" ("ID", "Name", "Description") VALUES
 (9,  'Tequila sunrise', 'Tequila'); -- line 832
 
 
-INSERT INTO "Users" ("ID", "Name", "Email", "Password") VALUES
+INSERT INTO Users (ID, Name, Email, Password) VALUES
 (0, 'bob',  'bob@gmail.com',    'bob'),
 (1, 'Greg', 'greg@gmail.com',   'greg'),
 (2, 'Mary', 'mary@gmail.com',   'mary');
 
-INSERT INTO "Units" ("ID", "Name", "ConversionFactor", "MeasurementID") VALUES
+INSERT INTO Units (ID, Name, ConversionFactor, MeasurementID) VALUES
 (0,  'Cup', 1, 0),
 (1,  'Tablespoon', 16, 0),
 (2,  'US_Fl.oz', 1, 1),
@@ -56,7 +56,7 @@ INSERT INTO "Units" ("ID", "Name", "ConversionFactor", "MeasurementID") VALUES
 
 
 
-INSERT INTO "Ingredients" ("ID", "Name", "Description", "MeasurementID") VALUES
+INSERT INTO Ingredients (ID, Name, Description, MeasurementID) VALUES
 (0,	 'Water',	'Pure water',	1),
 (1,	 'Vodka',	'Only the best vodka will do.',	1),
 (2,	 'Roku gin',	'Liquor',	1),
@@ -95,7 +95,7 @@ INSERT INTO "Ingredients" ("ID", "Name", "Description", "MeasurementID") VALUES
 
 
 
-INSERT INTO "IngredientsRecipes" ("ID", "RecipeID", "Size", "IngredientID") VALUES
+INSERT INTO IngredientsRecipes (ID, RecipeID, Size, IngredientID) VALUES
 -- Gin Sonic
 (0,	0,	1.5,	2),
 (1,	0,	2.25,	3),
@@ -151,7 +151,7 @@ INSERT INTO "IngredientsRecipes" ("ID", "RecipeID", "Size", "IngredientID") VALU
 
 
 -- 2019-09-21 02:17:06.944757+00
-insert into "Pantry" ("UserID","IngredientID","Size") Values
+insert into Pantry (UserID,IngredientID,Size) Values
 (0,0,50),
 (0,2,88),
 (0,3,44),

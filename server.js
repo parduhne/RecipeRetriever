@@ -1,25 +1,32 @@
 'use strict';
 
-//Load express module with `require` directive
-// From https://blog.logrocket.com/setting-up-a-restful-api-with-node-js-and-postgresql-d96d6fc892d8/
+const Pool = require('pg').Pool
 const express = require('express')
 const bodyParser = require('body-parser')
 const app = express()
 const port = 8000
 
 // Set up DB connection
-const knex = require('knex')({
-  client: 'postgresql',
-  connection: {
-    debug: 'true',
-    host: process.env.DB_HOST,
-    port: 5432,
-    user: process.env.DB_USER,
-    password: process.env.DB_PASS,
-    database: process.env.DB_NAME,
-    multipleStatements: true
-  }
-});
+// const knex = require('knex')({
+//   client: 'postgresql',
+//   connection: {
+//     debug: 'true',
+//     host: process.env.DB_HOST,
+//     port: 5432,
+//     user: process.env.DB_USER,
+//     password: process.env.DB_PASS,
+//     database: process.env.DB_NAME,
+//     multipleStatements: true
+//   }
+// });
+
+const pool = new Pool({
+  user: process.env.DB_USER,
+  host: process.env.DB_HOST,
+  database: process.env.DB_NAME,
+  password: process.env.DB_PASS,
+  port: 5432,
+})
 
 app.use(bodyParser.json())
 app.use(
@@ -28,13 +35,16 @@ app.use(
   })
 )
 
-//Define request response in root URL (/)
-// http://zetcode.com/javascript/knex/
-app.get('/', function (req, res) {
-  knex.from('Users').select("*")
-	  .then((rows) => res.json( {info: rows }));
-})
 
+app.get('/', function (request, response) {
+  const selectUsersQuery = "Select * from Users"
+  pool
+    .query(selectUsersQuery)
+    .then(results => {
+      response.json({info: results.rows})
+    })
+    .catch(e => console.error(e.stack))
+})
 
 // An API to execute a SQL file on the system
 // Ex: http://192.168.99.100:8000/rawapply?file=PGT-schema.sql
@@ -44,13 +54,12 @@ app.get('/rawapply', function (req, res) {
   if(req.query.file){
     var fs = require('fs');
     var sql = fs.readFileSync(req.query.file).toString();
-    knex.raw(sql).then( function(resp){
-          console.log(resp);
-          res.json( {success: resp });
-    }).catch( function( err ){
-        console.log(err);
-        res.json( {error: err });
-    })
+    pool
+      .query(sql)
+      .then(queryRes => {
+        console.log(queryRes);
+        res.json ({success: queryRes})
+      })
   }else{
     res.json( {info: 0 });
   }
