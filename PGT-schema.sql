@@ -8,6 +8,15 @@ DROP TABLE IF EXISTS Pantry CASCADE;
 DROP TABLE IF EXISTS Units CASCADE;
 DROP TABLE IF EXISTS Users CASCADE;
 
+-- Wipe out the old table names if they still exist
+DROP TABLE IF EXISTS "Measurements" CASCADE;
+DROP TABLE IF EXISTS "Recipes" CASCADE;
+DROP TABLE IF EXISTS "Ingredients" CASCADE;
+DROP TABLE IF EXISTS "IngredientsRecipes" CASCADE;
+DROP TABLE IF EXISTS "Pantry" CASCADE;
+DROP TABLE IF EXISTS "Units" CASCADE;
+DROP TABLE IF EXISTS "Users" CASCADE;
+
 CREATE TABLE public.Measurements (
     ID serial NOT NULL PRIMARY KEY,
     Name character varying NOT NULL
