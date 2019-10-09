@@ -30,7 +30,7 @@ services:
   node:
     image: node:11
     volumes:
-      - .:/usr/src/service
+      - ./server:/usr/src/service
       - nodemodules:/usr/src/service/node_modules
     working_dir: /usr/src/service
     command: bash -c "npm install && npm install pg --save && npm install -g nodemon &&  npm run start"
@@ -46,6 +46,16 @@ services:
       - DB_USER=postgres
       - DB_PASS=retriever
       - DB_NAME=recipe-retriever
+  #react:
+  #  environment:
+  #    - NODE_ENV=development
+  #  build: ./
+  #  ports:
+  #    - "80:3000"
+  #  volumes:
+  #    - './my-react:/usr/src/app'
+  #    - '/usr/src/app/node_modules'
+
 volumes:
   postgres:
   nodemodules:
