@@ -9,21 +9,22 @@ module.exports.init = function(app,pool){
       const insertRecipesQuery = `INSERT INTO Recipes (Name, Description) values ($1, $2)`
       const insertRecipesData = [request.query.name, request.query.description]
 
-      console.error(request.query.ingredients.length)
-
-      let ingredients = JSON.parse(request.query.ingredients)
-      for(var i = 0; i < ingredients.length; i++){
-        console.error(ingredients[i])
-        //const insertIngredientsRecipesQuery = "INSERT INTO IngredientsRecipes (IngredientID, RecipeID, Size) values (SELECT ID FROM Ingredients WHERE Name =  and Description = , SELECT ID FROM Recipes WHERE Name = $1 and Description = $2, $3)"
-        //const insertIngredientsRecipesData = [request.query.IngredientID, request.query.RecipeID, request.query.Size]
-      }
-
+      // if this is done in the background, the for loop may execute before the recipe insert
       pool
         .query(insertRecipesQuery, insertRecipesData)
         .then(results => {
           response.json({info: results.rows})
         })
         .catch(e => console.error(e.stack))
+
+      let ingredients = JSON.parse(request.query.ingredients)
+      for(var i = 0; i < ingredients.length; i++){
+        console.error(ingredients[i])
+        const insertIngredientsRecipesQuery = "INSERT INTO IngredientsRecipes (IngredientID, RecipeID, Size) values (SELECT ID FROM Ingredients WHERE Name =  and Description = , SELECT ID FROM Recipes WHERE Name = $1 and Description = $2, $3)"
+        const insertIngredientsRecipesData = [request.query.IngredientID, request.query.RecipeID, request.query.Size]
+      }
+
+      
      }
      
 
