@@ -65,7 +65,7 @@ app.get('/users', function (request, response) {
     pool
       .query(listUserQuery)
       .then(results => {
-        response.json({info: results.rows})
+        response.json(results.rows)
       })
       .catch(e => console.error(e.stack))
   }
@@ -105,7 +105,28 @@ app.get('/rawapply', function (req, res) {
   }
 })
 
-
+app.route('/ingredients')
+  .get(function (request, response){
+    if (request.query.name){
+      const statement = 'SELECT ID, Name, Description, MeasurementID from Ingredients where lower(Name) LIKE $1'
+      const name = [request.query.name.toLowerCase() + '%']
+      pool
+        .query(statement, name)
+        .then(results => {
+          response.json(results.rows)
+        })
+        .catch(e => console.error(e.stack))
+    } else {
+      response.status(400).json({'ErrorMessage' :'Query not provided'})
+    }
+    
+  })
+  .post(function (request, response){
+    response.json(request)
+  })
+  .put(function (request, response){
+    response.json(request)
+  })
 
 //Launch listening server on port 8000
 app.listen(port, function () {
