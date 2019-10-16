@@ -46,15 +46,18 @@ services:
       - DB_USER=postgres
       - DB_PASS=retriever
       - DB_NAME=recipe-retriever
-  #react:
-  #  environment:
-  #    - NODE_ENV=development
-  #  build: ./
-  #  ports:
-  #    - "80:3000"
-  #  volumes:
-  #    - './my-react:/usr/src/app'
-  #    - '/usr/src/app/node_modules'
+  ui:
+    image: retriever_ui    # run client/build_image.sh to make this
+    volumes:
+     - ./client:/work/
+     - /work/node_modules
+    ports:
+     - "3000:3000"
+     - "9228:9228"      ###### NOTE THE NONSTANDARD PORT!!!! This should be 9229, but Node has that
+    #links: # if ui comes up, bring up node as well, the api server TODO fix all dependencies!
+    # - node
+    environment:
+     - REACT_APP_API_ENV=development
 
 volumes:
   postgres:
