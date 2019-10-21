@@ -1,6 +1,9 @@
 module.exports.init = function(app,pool){
 
   
+  // Accept a recipe name, description, and a list of ingredient IDs.  We trust the client to give us
+  // correct ingredient ids and amounts.
+  // {name: "Hot Chocolate", description: "A lovely beverage for snowy evenings", ingredients: [(2,5.3), (4,1.1), ...]  }
   app.post('/recipes', function (request, response) {
     if(request.query.name &&
     request.query.description &&
