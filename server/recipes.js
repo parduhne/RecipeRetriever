@@ -1,6 +1,6 @@
 module.exports.init = function(app,pool){
 
-  
+
   // Accept a recipe name, description, and a list of ingredient IDs.  We trust the client to give us
   // correct ingredient ids and amounts.
   // {name: "Hot Chocolate", description: "A lovely beverage for snowy evenings", ingredients: [(2,5.3), (4,1.1), ...]  }
@@ -22,21 +22,20 @@ module.exports.init = function(app,pool){
 
       let ingredients = JSON.parse(request.query.ingredients)
       for(var i = 0; i < ingredients.length; i++){
-        console.error(ingredients[i])
-        const insertIngredientsRecipesQuery = "INSERT INTO IngredientsRecipes (IngredientID, RecipeID, Size) values (SELECT ID FROM Ingredients WHERE Name =  and Description = , SELECT ID FROM Recipes WHERE Name = $1 and Description = $2, $3)"
+        const insertIngredientsRecipesQuery = "INSERT INTO IngredientsRecipes (IngredientID, RecipeID, Size) values (ingredients[i][0] , SELECT ID FROM Recipes WHERE Name = $1 and Description = $2, ingredients[i][1])"
         const insertIngredientsRecipesData = [request.query.IngredientID, request.query.RecipeID, request.query.Size]
       }
 
-      
+
      }
-     
+
 
   })
-  
+
 
   app.get('/recipes', function (request, response) {
     if(request.query.id){ // Give back the recipe with that ID including ingredients
-      const getIngredientsQuery = `SELECT size,ingredientid 
+      const getIngredientsQuery = `SELECT size,ingredientid
                                    FROM ingredientsrecipes WHERE recipeid = $1`
       const getIngredientsData = [request.query.id]
 
@@ -46,9 +45,36 @@ module.exports.init = function(app,pool){
           response.json({info: results.rows})
         })
         .catch(e => console.error(e.stack))
-        
+
      }else{ // Return all recipes with ids
       const getAllRecipesQuery = "SELECT id,name,description FROM recipes"
+      pool
+        .query(getAllRecipesQuery)
+        .then(results => {
+          response.json({info: results.rows})
+        })
+        .catch(e => console.error(e.stack))
+     }
+
+  })
+
+  app.get('/all-recipes', function (request, response) {
+    if(request.query.id){ // Give back the recipe with that ID including ingredients
+      const getIngredientsQuery = `SELECT size,ingredientid
+                                   FROM ingredientsrecipes WHERE recipeid = $1`
+      const getIngredientsData = [request.query.id]
+
+      pool
+        .query(getIngredientsQuery, getIngredientsData)
+        .then(results => {
+          response.json({info: results.rows})
+        })
+        .catch(e => console.error(e.stack))
+
+     }else{ // Return all recipes with ids
+      const getAllRecipesQuery = `SELECT ingredientsrecipes.recipeid as recipeid, recipes.name as recipename, ingredients.name as ingname, ingredientsrecipes.size FROM ingredientsrecipes
+                                  INNER JOIN recipes on  ingredientsrecipes.recipeid = recipes.id
+                                  INNER JOIN ingredients on ingredientsrecipes.ingredientid = ingredients.id`
       pool
         .query(getAllRecipesQuery)
         .then(results => {
