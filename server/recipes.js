@@ -22,7 +22,8 @@ module.exports.init = function(app,pool){
 
       let ingredients = JSON.parse(request.query.ingredients)
       for(var i = 0; i < ingredients.length; i++){
-        const insertIngredientsRecipesQuery = "INSERT INTO IngredientsRecipes (IngredientID, RecipeID, Size) values (ingredients[i][0] , SELECT ID FROM Recipes WHERE Name = $1 and Description = $2, ingredients[i][1])"
+        const insertIngredientsRecipesQuery = `INSERT INTO IngredientsRecipes (IngredientID, RecipeID, Size)
+                                              values (ingredients[i][0] , SELECT ID FROM Recipes WHERE Name = $1 and Description = $2, ingredients[i][1])`
         const insertIngredientsRecipesData = [request.query.IngredientID, request.query.RecipeID, request.query.Size]
       }
 
