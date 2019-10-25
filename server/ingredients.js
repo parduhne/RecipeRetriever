@@ -26,7 +26,6 @@ module.exports.init = function(app,pool){
   })
   */
 
-  // Save new ingredient to database
   app.post('/ingredients', function (request, response) {
     if(request.query.name &&
     request.query.description &&
@@ -45,7 +44,7 @@ module.exports.init = function(app,pool){
      }
   })
 
-  // Get ingredient by name and description
+
   app.get('/ingredients', function (request, response) {
     if(request.query.name &&
     request.query.description){
@@ -73,14 +72,4 @@ module.exports.init = function(app,pool){
 
   })
 
-  app.get('/ingredients/:id', function (request, response){
-    const ingredientID = [request.params.id]
-    const query = 'Select id from Ingredients where id = $1'
-    pool
-      .query(query, ingredientID)
-      .then(results =>{
-        response.json(results.rows)
-      })
-      .catch(e => console.error(e.stack))
-  })
 }
