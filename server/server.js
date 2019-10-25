@@ -6,20 +6,6 @@ const bodyParser = require('body-parser')
 const app = express()
 const port = 8000
 
-// Set up DB connection
-// const knex = require('knex')({
-//   client: 'postgresql',
-//   connection: {
-//     debug: 'true',
-//     host: process.env.DB_HOST,
-//     port: 5432,
-//     user: process.env.DB_USER,
-//     password: process.env.DB_PASS,
-//     database: process.env.DB_NAME,
-//     multipleStatements: true
-//   }
-// });
-
 const pool = new Pool({
   user: process.env.DB_USER,
   host: process.env.DB_HOST,
@@ -82,14 +68,17 @@ app.get('/rawapply', function (req, res) {
   }
 })
 
-let users = require("./users.js")
-users.init(app,pool)
-
 let ingredients = require("./ingredients.js")
 ingredients.init(app,pool)
 
+let pantry = require("./pantry.js")
+pantry.init(app,pool)
+
 let recipes = require("./recipes.js")
 recipes.init(app,pool)
+
+let users = require("./users.js")
+users.init(app,pool)
 
 
 //Launch listening server on port 8000
