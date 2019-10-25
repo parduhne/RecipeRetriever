@@ -56,7 +56,16 @@ module.exports.init = function(app,pool){
           response.json({info: results.rows})
         })
         .catch(e => console.error(e.stack))
-    }
+    }if(request.query.name){
+        const getIngredientsQuery = "SELECT name FROM Ingredients lower(Name) LIKE $1"
+        const getIngredientsData = [request.query.name + '%']
+        pool
+          .query(getIngredientsQuery, getIngredientsData)
+          .then(results => {
+            response.json({info: results.rows})
+          })
+          .catch(e => console.error(e.stack))
+      }
     else{
 
     }
