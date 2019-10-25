@@ -3,7 +3,6 @@
 const Pool = require('pg').Pool
 const express = require('express')
 const bodyParser = require('body-parser')
-const httpRequest = require('request')
 const app = express()
 const port = 8000
 
