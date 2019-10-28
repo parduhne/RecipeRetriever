@@ -79,7 +79,7 @@ module.exports.init = function(app,pool){
       pool
         .query(getAllRecipesQuery)
         .then(results => {
-          response.json({info: results.rows})
+          response.json(results.rows)
         })
         .catch(e => console.error(e.stack))
      }

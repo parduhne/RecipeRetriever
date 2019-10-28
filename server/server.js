@@ -3,7 +3,9 @@
 const Pool = require('pg').Pool
 const express = require('express')
 const bodyParser = require('body-parser')
+const cors = require('cors')
 const app = express()
+app.use(cors());
 const port = 8000
 
 // Set up DB connection
@@ -96,4 +98,3 @@ recipes.init(app,pool)
 app.listen(port, function () {
   console.log('app listening on port 8000!')
 })
-
