@@ -93,6 +93,8 @@ ingredients.init(app,pool)
 let recipes = require("./recipes.js")
 recipes.init(app,pool)
 
+let pantry = require("./pantry.js")
+pantry.init(app,pool) 
 
 //Launch listening server on port 8000
 app.listen(port, function () {

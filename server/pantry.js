@@ -1,7 +1,5 @@
 module.exports.init = function(app,pool){
 
-    const pantryIngerdientQuery = ''
-
     app.post('/pantry', function (request, response){
         // retrieving ingredient 
         const ingredientID = request.body.IngredientID
@@ -23,7 +21,7 @@ module.exports.init = function(app,pool){
     app.get('/pantry/:userID', function(request, response){
         const userID = request.params.userID
         if (userID){
-            const query = pantryIngerdientQuery
+            const query = 'select p.ingredientid as IngredientID, i.name as IngredientName, p.size as Size, u.name as UnitName from pantry p left join ingredients i on p.ingredientid = i.id left join units u on i.measurementid = u.measurementid where userid = $1 and u.conversionfactor = 1'
             const queryData = [userID]
             pool
                 .query(query, queryData)
