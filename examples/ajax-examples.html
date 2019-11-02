@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>JavaScript Ajax GET Demo</title>
+<script>
+function displayFullName() {
+    // Creating the XMLHttpRequest object
+    var request = new XMLHttpRequest();
+
+    // Instantiating the request object
+    request.open("GET", "http://localhost:8000/");
+
+    // Defining event listener for readystatechange event
+    request.onreadystatechange = function() {
+        // Check if the request is compete and was successful
+        // readyState 2 - request
+        // readyState 3 - processing
+        // readyState 4 - done response ready
+        if(this.readyState === 4 && this.status === 200) {
+            // Inserting the response from server into an HTML element
+            l = JSON.parse(this.responseText).info
+            
+            html = "There are " + l.length + " elements"
+            html += "<table border=1 >\n"
+            html += "<tr><th>Name:</th><th>Password:</th></tr>\n";
+            l.forEach(function(bob){
+                html += "<tr><td>" + bob.name + '</td><td>' +bob.password + "</td></tr>\n"
+            })
+            html += "</table>";
+
+            document.getElementById("result").innerHTML = html
+        }
+    };
+
+    // Sending the request to the server
+    request.send();
+}
+
+function hiJosh(){
+    alert("Hi josh");
+}
+</script>
+</head>
+<body>
+    <div id="result">
+        <p>Content of the result DIV box will be replaced by the server response</p>
+    </div>
+    <button type="button" onclick="displayFullName()">Display Full Name</button>
+    <button type="button" onclick="hiJosh()">Josh</button>
+</body>
+</html>
