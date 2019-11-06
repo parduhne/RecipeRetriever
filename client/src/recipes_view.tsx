@@ -2,8 +2,8 @@ import * as React from 'react';
 // import './App.css';
 // import {QuestionEntry, VoteValidation} from './QuestionEntry'
 
-class App extends React.Component {
-  constructor(props) {
+class App extends React.Component <any, any> {
+  constructor(props: any) {
     super(props);
     this.state = {
       error: null,
