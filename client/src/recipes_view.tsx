@@ -2,7 +2,7 @@ import * as React from 'react';
 // import './App.css';
 // import {QuestionEntry, VoteValidation} from './QuestionEntry'
 
-class Recipes extends React.Component <any, any> {
+class recipeView extends React.Component <any, any> {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -37,6 +37,21 @@ class Recipes extends React.Component <any, any> {
         }
       )
   }
+  createList(){
+    const { error, isLoaded, items } = this.state;
+    let reciID = -1;
+    let list = [];
+    items.forEach( (item) => {
+      if(reciID == item.recipeid){
+        list.push(<li key={item.recipeid}>{item.size}oz {item.ingname}</li>);
+      }else{
+        list.push(<li key={item.recipeid}><h3>{item.recipename}</h3></li>);
+        list.push(<li key={item.recipeid}>{item.size} oz {item.ingname}</li>);
+        reciID = item.recipeid
+      }
+    });
+    return list;
+  }
   render() {
     // Generate and insert HTML
     // this will call api_call()
@@ -48,14 +63,10 @@ class Recipes extends React.Component <any, any> {
     } else {
       return (
         <ul>
-          {items.map((item) => (
-            <li key={item.recipeid}>
-              {item.recipename} {item.ingname} {item.size}
-            </li>
-          ))}
+          {this.createList()}
         </ul>
       );
     }
   }
 }
-export default App;
+export default recipeView;
