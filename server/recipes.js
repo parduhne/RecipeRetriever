@@ -86,4 +86,40 @@ module.exports.init = function(app,pool){
 
   })
 
+  app.get('/pantry-recipes', function (request, response) {
+    if(request.query.id){ // Give back the recipe with that ID including ingredients
+      const getIngredientsQuery = `SELECT size,ingredientid
+                                   FROM ingredientsrecipes WHERE recipeid = $1`
+      const getIngredientsData = [request.query.id]
+
+      pool
+        .query(getIngredientsQuery, getIngredientsData)
+        .then(results => {
+          response.json({info: results.rows})
+        })
+        .catch(e => console.error(e.stack))
+
+     }else{ // Return all recipes with ids
+      const getAllRecipesQuery = `SELECT x."recipeid" as "recipe id", "recipes"."name" as recipename
+                                  FROM "ingredientsrecipes" x
+                                  INNER JOIN "pantry" on x."ingredientid" = "pantry"."ingredientid"
+                                  INNER JOIN "recipes" on  x."recipeid" = "recipes"."id"
+                                  INNER JOIN "ingredients" on x."ingredientid" = "ingredients"."id"
+                                  WHERE "pantry"."userid" = 0 AND "pantry"."size" >= x."size"
+                                  GROUP BY x."recipeid", "recipes"."name"
+                                  HAVING COUNT("recipes"."id") = (SELECT COUNT(y."recipeid")
+                                  FROM "ingredientsrecipes" y
+                                  WHERE x."recipeid" = y."recipeid"
+                                  GROUP BY y."recipeid"
+                                  ORDER BY y."recipeid");`
+      pool
+        .query(getAllRecipesQuery)
+        .then(results => {
+          response.json(results.rows)
+        })
+        .catch(e => console.error(e.stack))
+     }
+
+  })
+
 }

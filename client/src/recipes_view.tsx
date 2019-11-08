@@ -2,7 +2,7 @@ import * as React from 'react';
 // import './App.css';
 // import {QuestionEntry, VoteValidation} from './QuestionEntry'
 
-class recipeView extends React.Component <any, any> {
+class RecipeView extends React.Component <any, any> {
   constructor(props: any) {
     super(props);
     this.state = {
