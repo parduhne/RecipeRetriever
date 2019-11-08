@@ -2,7 +2,7 @@ import * as React from 'react';
 // import './App.css';
 // import {QuestionEntry, VoteValidation} from './QuestionEntry'
 
-class App extends React.Component <any, any> {
+class Recipes extends React.Component <any, any> {
   constructor(props: any) {
     super(props);
     this.state = {
@@ -48,7 +48,7 @@ class App extends React.Component <any, any> {
     } else {
       return (
         <ul>
-          {items.map((item, index) => (
+          {items.map((item) => (
             <li key={item.recipeid}>
               {item.recipename} {item.ingname} {item.size}
             </li>
