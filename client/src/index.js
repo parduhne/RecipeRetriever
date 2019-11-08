@@ -1,6 +1,6 @@
 import React, { Component }  from 'react'
 import ReactDOM from 'react-dom'
-import App from './recipes_view'
+import App from './app'
 
 ReactDOM.render(
   <App />,
