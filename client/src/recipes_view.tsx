@@ -69,4 +69,4 @@ class RecipeView extends React.Component <any, any> {
     }
   }
 }
-export default recipeView;
+export default RecipeView;
