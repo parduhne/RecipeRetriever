@@ -68,7 +68,7 @@ module.exports.init = function(app,pool){
       }
     else{
       const getIngredientsQuery = "SELECT name FROM Ingredients"
-      const getIngredientsData = [request.query.name + '%']
+      const getIngredientsData = [request.query.name]
       pool
         .query(getIngredientsQuery, getIngredientsData)
         .then(results => {
