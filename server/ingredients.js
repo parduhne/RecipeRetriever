@@ -67,7 +67,14 @@ module.exports.init = function(app,pool){
           .catch(e => console.error(e.stack))
       }
     else{
-      
+      const getIngredientsQuery = "SELECT name FROM Ingredients"
+      const getIngredientsData = [request.query.name]
+      pool
+        .query(getIngredientsQuery, getIngredientsData)
+        .then(results => {
+          response.json({info: results.rows})
+        })
+        .catch(e => console.error(e.stack))
     }
 
   })
