@@ -100,7 +100,7 @@ module.exports.init = function(app,pool){
         .catch(e => console.error(e.stack))
 
      }else{ // Return all recipes with ids
-      const getAllRecipesQuery = `SELECT x."recipeid" as "recipe id", "recipes"."name" as recipename
+      const getAllRecipesQuery = `SELECT x."recipeid" as "recipeid", "recipes"."name" as recipename
                                   FROM "ingredientsrecipes" x
                                   INNER JOIN "pantry" on x."ingredientid" = "pantry"."ingredientid"
                                   INNER JOIN "recipes" on  x."recipeid" = "recipes"."id"
