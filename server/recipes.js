@@ -61,8 +61,10 @@ module.exports.init = function(app,pool){
 
   app.get('/all-recipes', function (request, response) {
     if(request.query.id){ // Give back the recipe with that ID including ingredients
-      const getIngredientsQuery = `SELECT size,ingredientid
-                                   FROM ingredientsrecipes WHERE recipeid = $1`
+      const getIngredientsQuery = `SELECT recipes.name as recipename, ingredients.name as ingname, ingredientsrecipes.size
+                                   FROM ingredientsrecipes WHERE recipeid = $1
+                                   INNER JOIN recipes on  ingredientsrecipes.recipeid = recipes.id
+                                   INNER JOIN ingredients on ingredientsrecipes.ingredientid = ingredients.id`
       const getIngredientsData = [request.query.id]
 
       pool
@@ -88,8 +90,10 @@ module.exports.init = function(app,pool){
 
   app.get('/pantry-recipes', function (request, response) {
     if(request.query.id){ // Give back the recipe with that ID including ingredients
-      const getIngredientsQuery = `SELECT size,ingredientid
-                                   FROM ingredientsrecipes WHERE recipeid = $1`
+      const getIngredientsQuery = `SELECT recipes.name as recipename, ingredients.name as ingname, ingredientsrecipes.size
+                                   FROM ingredientsrecipes WHERE recipeid = $1
+                                   INNER JOIN recipes on  ingredientsrecipes.recipeid = recipes.id
+                                   INNER JOIN ingredients on ingredientsrecipes.ingredientid = ingredients.id`
       const getIngredientsData = [request.query.id]
 
       pool
