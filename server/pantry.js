@@ -1,7 +1,7 @@
 module.exports.init = function(app,pool){
 
     app.post('/pantry', function (request, response){
-        // retrieving ingredient 
+        // retrieving ingredient
         const ingredientID = request.body.IngredientID
         const userID = request.body.UserID
         const size = request.body.Size
@@ -30,7 +30,7 @@ module.exports.init = function(app,pool){
                 })
                 .catch(e => console.error(e.stack))
         }else{
-            response.status(400).json({'ErrorMessage' :'Invalid user id provided'}) 
+            response.status(400).json({'ErrorMessage' :'Invalid user id provided'})
         }
     })
 }

@@ -16,7 +16,7 @@ module.exports.init = function(app,pool){
       } else {
         response.status(400).json({'ErrorMessage' :'Query not provided'})
       }
-      
+
     })
     .post(function (request, response){
       response.json(request)
@@ -27,20 +27,43 @@ module.exports.init = function(app,pool){
   */
 
   app.post('/ingredients', function (request, response) {
-    if(request.query.name &&
-    request.query.description &&
-    request.query.MeasurementID){
-      const insertIngredientsQuery = "IF EXISTS (SELECT * FROM Ingredients WHERE Name = $1 and Description = $2) UPDATE Ingredients SET (Name = $1, Description = $2, MeasurementID = '$3) WHERE Name= $1 ELSE INSERT INTO Ingredients (Name, Description, MeasurementID) values ($1, $2, $3)"
-      const insertIngredientsData = [request.query.name, request.query.description, request.query.MeasurementID]
-      pool
-        .query(insertIngredientsQuery, insertIngredientsData)
-        .then(results => {
-          response.json({info: results.rows})
-        })
-        .catch(e => console.error(e.stack))
+    if(request.body.name &&
+    request.body.description &&
+    request.body.MeasurementID){
+      response.json({info:"success"})
+      // const checkIngredientsQuery = `SELECT EXISTS (SELECT * FROM Ingredients WHERE
+      //                                 Name = $1 and Description = $2)`
+      // const checkIngredientsData = [request.body.name,request.body.description]
+      // const insertIngredientsQuery = `INSERT INTO ingredients (name,description,measurementid) values($1,$2,$3)`
+      // const updateIngredientsQuery = 'UPDATE ingredients SET name=$1, description=$2, measurementid=$3 WHERE name=$1'
+      // const insertIngredientsData = [request.body.name, request.body.description, request.body.MeasurementID]
+      //
+      // pool
+      //   .query(checkIngredientsQuery,checkIngredientsData)
+      //   .catch(e=> console.error(e.stack))
+      //   .then(results =>{
+      //     if(results.rows == 0 ){
+      //       pool
+      //         .query(insertIngredientsQuery, insertIngredientsData)
+      //         .catch(e => console.error(e.stack))
+      //         .then(results => {
+      //           response.json({info: "success on insert"})
+      //           console.log('success ')
+      //         })
+      //     }else if (results.rows == 1) {
+      //       pool
+      //         .query(updateIngredientsQuery, insertIngredientsData)
+      //         .catch(e => console.error(e.stack))
+      //         .then(results => {
+      //           response.json({info: "success on update"})
+      //           console.log('success ')
+      //         })
+      //     }
+      //   })
      }
      else{
-
+       console.log('nope')
+       response.json({info: "Did not get anything"})
      }
   })
 
@@ -65,8 +88,16 @@ module.exports.init = function(app,pool){
             response.json({info: results.rows})
           })
           .catch(e => console.error(e.stack))
-      }
-    else{
+    }if(request.query.id){
+        const getIngredientsQuery = "SELECT name FROM Ingredients where id = $1"
+        const getIngredientsData = [request.query.id]
+        pool
+          .query(getIngredientsQuery, getIngredientsData)
+          .then(results => {
+            response.json({info: results.rows})
+          })
+          .catch(e => console.error(e.stack))
+    }else{
       const getIngredientsQuery = "SELECT name FROM Ingredients"
       const getIngredientsData = [request.query.name]
       pool

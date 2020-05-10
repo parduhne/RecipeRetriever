@@ -33,17 +33,41 @@ module.exports.init = function(app,pool){
 
   })
 
-
-  app.get('/recipes', function (request, response) {
+  app.get('/recipe-name', function (request, response) {
     if(request.query.id){ // Give back the recipe with that ID including ingredients
-      const getIngredientsQuery = `SELECT size,ingredientid
-                                   FROM ingredientsrecipes WHERE recipeid = $1`
+      const getIngredientsQuery = `SELECT name
+                                   FROM recipes WHERE id = $1`
       const getIngredientsData = [request.query.id]
 
       pool
         .query(getIngredientsQuery, getIngredientsData)
         .then(results => {
           response.json({info: results.rows})
+        })
+        .catch(e => console.error(e.stack))
+
+     }else{ // Return all recipes with ids
+      const getAllRecipesQuery = "SELECT name FROM recipes"
+      pool
+        .query(getAllRecipesQuery)
+        .then(results => {
+          response.json({info: results.rows})
+        })
+        .catch(e => console.error(e.stack))
+     }
+
+  })
+
+  app.get('/recipes', function (request, response) {
+    if(request.query.id){ // Give back the recipe with that ID including ingredients
+      const getIngredientsQuery = `SELECT recipeid,size,ingredientid
+                                   FROM ingredientsrecipes WHERE recipeid = $1`
+      const getIngredientsData = [request.query.id]
+
+      pool
+        .query(getIngredientsQuery, getIngredientsData)
+        .then(results => {
+          response.json(results.rows)
         })
         .catch(e => console.error(e.stack))
 

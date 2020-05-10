@@ -7,6 +7,8 @@ import {
 } from "react-router-dom";
 import RecipeView from './recipes_view';
 import RecipePantryView from './recipes_pantry_view';
+import PantryView from './pantry_view';
+import SingleRecipeView from './single_recipe_view'
 
 export default function App() {
     return (
@@ -35,6 +37,9 @@ export default function App() {
             <Route path="/recipes">
               <Recipes />
             </Route>
+            <Route path="/single-recipe">
+              <SingleRecipe />
+            </Route>
             <Route path="/pantry">
               <Pantry />
             </Route>
@@ -57,9 +62,11 @@ export default function App() {
   function Recipes() {
     return <RecipeView />;
   }
-
+  function SingleRecipe() {
+    return <SingleRecipeView />
+  }
   function Pantry() {
-    return <h2>Users</h2>;
+    return <PantryView />;
   }
   function PantryRecipes() {
     return <RecipePantryView />;
